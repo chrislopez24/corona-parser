@@ -13,7 +13,6 @@ class ParserService:
         @Returns:
         DataFrame
         """
-
         soup = BeautifulSoup(raw_data, features="html.parser")
 
         COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Active Cases", "Recovered", "Critical"]
@@ -31,7 +30,7 @@ class ParserService:
 
     @staticmethod
     def parse_last_updated(raw_data):
-         """
+        """
         Parses the raw HTML response from Worldometer and returns the lastest update time from the webpage
 
         @Params:
