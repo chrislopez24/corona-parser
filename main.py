@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+import re
 
 web = requests.get('https://www.worldometers.info/coronavirus/#countries')
 
@@ -20,7 +21,7 @@ COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", 
 #pd.set_option('display.max_rows', None)
 #pd.set_option('display.max_columns', None)
 
-final = pd.DataFrame(parsed_data, columns=COLUMNS)
+output = pd.DataFrame(parsed_data, columns=COLUMNS)
 
-#final.to_csv(r'./cases.csv', index = False)
-print(final.to_string)
+output.to_csv(r'./cases.csv', index = False)
+print(output.to_string)
