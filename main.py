@@ -1,27 +1,15 @@
-from bs4 import BeautifulSoup
-import pandas as pd
-import requests
-import re
+from gateway.worldometer_gateway import WorldOMeterGateway
+from services.parser_service import ParserService
 
-web = requests.get('https://www.worldometers.info/coronavirus/#countries')
+if __name__ == "__main__":
 
-soup = BeautifulSoup(web.text, features="html.parser")
+    worldometer_gateway = WorldOMeterGateway()
+    parser_service = ParserService()
 
-_id = "main_table_countries"
+    latest_data = worldometer_gateway.fetch()
+    output = parser_service.create_df_worldometer(latest_data)
+    last_updated = parser_service.parse_last_updated(latest_data)
+    output.to_csv(r'./cases.csv', index = False)
+    print(last_updated)
+    print(output)
 
-raw_data = soup.find("table", attrs={"id": _id}).find("tbody").findAll("tr")
-
-parsed_data = []
-
-for country in raw_data:
-  parsed_data.append([data.get_text() for data in country.findAll("td")])
-
-COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Active Cases", "Recovered", "Critical"]
-
-#pd.set_option('display.max_rows', None)
-#pd.set_option('display.max_columns', None)
-
-output = pd.DataFrame(parsed_data, columns=COLUMNS)
-
-output.to_csv(r'./cases.csv', index = False)
-print(output.to_string)
