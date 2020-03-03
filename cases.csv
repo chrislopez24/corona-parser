@@ -1,5 +1,5 @@
 Country,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases,Recovered,Critical
- China ,"80,152", +1 ," 2,945 ",+2 ," 29,810 ","47,397 ","6,806 "
+ China ,"80,152", +1 ," 2,945 ",+2 ," 29,785 ","47,422 ","6,806 "
  S. Korea ,"5,186", +851 , 34 ,+6 ," 5,118 ",34 ,27 
  Italy ,"2,502", +466 , 79 ,+27 ," 2,263 ",160 ,229 
  Iran ,"2,336", +835 , 77 ,+11 ," 1,824 ",435 , 
@@ -80,4 +80,4 @@ Country,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases,Recovered,Cri
  Argentina ,1, +1 , , , 1 , , 
  Chile ,1, +1 , , , 1 , , 
  Liechtenstein ,1, +1 , , , 1 , , 
-Total:,"92,871","2,422","3,168",51,"41,234","48,469","7,162"
+Total:,"92,871","2,422","3,168",51,"41,209","48,494","7,162"

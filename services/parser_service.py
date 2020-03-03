@@ -22,8 +22,6 @@ class ParserService:
 
         countries_data = soup.find("table", attrs={"id": _id}).find("tbody").findAll("tr")
 
-        last_updated = soup.find("div", {"style": "font-size:13px; color:#999; text-align:center"})
-
         parsed_data = []
 
         for country in countries_data:
@@ -33,6 +31,15 @@ class ParserService:
 
     @staticmethod
     def parse_last_updated(raw_data):
+         """
+        Parses the raw HTML response from Worldometer and returns the lastest update time from the webpage
+
+        @Params:
+        raw_data (string): request.text from Worldometer
+
+        @Returns:
+        Last updated time (string)
+        """
 
         soup = BeautifulSoup(raw_data, features="html.parser")
 
