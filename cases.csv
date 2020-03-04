@@ -1,66 +1,70 @@
 Country,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases,Recovered,Critical
- China ,"80,152", +1 ," 2,945 ",+2 ," 29,785 ","47,422 ","6,806 "
- S. Korea ,"5,186", +851 , 34 ,+6 ," 5,118 ",34 ,27 
- Italy ,"2,502", +466 , 79 ,+27 ," 2,263 ",160 ,229 
- Iran ,"2,336", +835 , 77 ,+11 ," 1,824 ",435 , 
- Diamond Princess ,706, , 6 , , 600 ,100 ,36 
- Japan ,293, +19 , 6 , , 244 ,43 ,23 
- France ,212, +21 , 4 ,+1 , 196 ,12 ,8 
- Germany ,196, +31 , , , 180 ,16 ,2 
- Spain ,165, +45 , 1 ,+1 , 162 ,2 ,3 
- USA ,118, +18 , 9 ,+3 , 100 ,9 ,7 
- Singapore ,110, +2 , , , 32 ,78 ,7 
- Hong Kong ,101, +1 , 2 , , 62 ,37 ,6 
- Switzerland ,58, +28 , , , 56 ,2 , 
+ China ,"80,282", +131 ," 2,981 ",+38 ," 27,298 ","50,003 ","6,416 "
+ S. Korea ,"5,621", +435 , 35 ,+3 ," 5,545 ",41 ,27 
+ Italy ,"3,089", +587 , 107 ,+28 ," 2,706 ",276 ,295 
+ Iran ,"2,922", +586 , 92 ,+15 ," 2,278 ",552 , 
+ Diamond Princess ,706, , 6 , , 488 ,212 ,35 
+ Japan ,331, +38 , 6 , , 282 ,43 ,29 
+ France ,285, +73 , 4 , , 269 ,12 ,10 
+ Germany ,262, +59 , , , 246 ,16 ,2 
+ Spain ,222, +57 , 2 ,+1 , 218 ,2 ,3 
+ USA ,149, +25 , 11 ,+2 , 129 ,9 ,8 
+ Singapore ,110, , , , 32 ,78 ,7 
+ Hong Kong ,103, +2 , 2 , , 64 ,37 ,6 
+ Switzerland ,90, +32 , , , 87 ,3 , 
+ U.K. ,87, +36 , , , 79 ,8 , 
  Kuwait ,56, , , , 56 , , 
- U.K. ,51, +12 , , , 43 ,8 , 
- Bahrain ,49, , , , 49 , , 
+ Norway ,56, +23 , , , 56 , , 
+ Bahrain ,52, +3 , , , 51 ,1 , 
+ Sweden ,52, +22 , , , 51 ,1 , 
+ Australia ,50, +11 , 2 ,+1 , 27 ,21 ,1 
+ Malaysia ,50, +14 , , , 28 ,22 , 
  Thailand ,43, , 1 , , 12 ,30 ,1 
- Taiwan ,42, +1 , 1 , , 29 ,12 ,1 
- Australia ,39, +6 , 1 , , 23 ,15 ,1 
- Malaysia ,36, +7 , , , 14 ,22 , 
- Norway ,33, +8 , , , 33 , , 
- Iraq ,32, +5 , , , 32 , , 
- Canada ,30, +3 , , , 23 ,7 , 
- Sweden ,30, +15 , , , 29 ,1 , 
- U.A.E. ,27, +6 , , , 22 ,5 ,2 
- Austria ,24, +6 , , , 24 , , 
- Netherlands ,24, +6 , , , 24 , ,1 
+ Taiwan ,42, , 1 , , 29 ,12 , 
+ Netherlands ,38, +15 , , , 38 , ,1 
+ Iraq ,35, +3 , , , 35 , , 
+ Canada ,33, +3 , , , 26 ,7 , 
+ Austria ,29, +5 , , , 29 , , 
+ India ,28, +21 , , , 25 ,3 , 
+ U.A.E. ,27, , , , 22 ,5 ,2 
+ Iceland ,26, +12 , , , 25 ,1 , 
+ Belgium ,23, +8 , , , 22 ,1 ,1 
+ San Marino ,16, +6 , 1 , , 15 , ,3 
  Vietnam ,16, , , , 0 ,16 , 
- Belgium ,13, +5 , , , 12 ,1 , 
- Lebanon ,13, , , , 13 , , 
- Israel ,12, , , , 11 ,1 , 
- Oman ,12, +6 , , , 10 ,2 , 
- Iceland ,11, +2 , , , 10 ,1 , 
- San Marino ,10, +2 , 1 , , 9 , ,1 
+ Denmark ,15, +5 , , , 15 , , 
+ Israel ,15, +3 , , , 14 ,1 , 
+ Lebanon ,15, +2 , , , 15 , , 
+ Oman ,15, +3 , , , 13 ,2 , 
+ Algeria ,12, +4 , , , 12 , , 
  Macao ,10, , , , 1 ,9 , 
- Denmark ,10, +6 , , , 10 , , 
- Croatia ,9, +1 , , , 9 , , 
- Algeria ,8, +3 , , , 8 , , 
- Qatar ,8, +1 , , , 8 , , 
- Ecuador ,7, +1 , , , 7 , ,1 
+ Ecuador ,10, +3 , , , 10 , ,1 
+ Croatia ,9, , , , 9 , , 
+ Greece ,9, +2 , , , 9 , , 
+ Czechia ,8, +3 , , , 8 , , 
+ Qatar ,8, , , , 8 , , 
  Finland ,7, , , , 6 ,1 , 
- Greece ,7, , , , 7 , , 
- India ,6, , , , 3 ,3 , 
+ Belarus ,6, +2 , , , 6 , , 
  Mexico ,6, , , , 5 ,1 , 
- Czechia ,5, +1 , , , 5 , , 
- Pakistan ,5, +1 , , , 5 , , 
- Portugal ,4, +2 , , , 4 , , 
- Romania ,4, +1 , , , 3 ,1 , 
+ Romania ,6, +2 , , , 5 ,1 , 
+ Pakistan ,5, , , , 5 , , 
+ Portugal ,5, +1 , , , 5 , , 
+ Brazil ,4, +2 , , , 4 , , 
+ Senegal ,4, +2 , , , 4 , , 
  Philippines ,3, , 1 , , 0 ,2 , 
  Azerbaijan ,3, , , , 3 , , 
  Georgia ,3, , , , 3 , , 
+ New Zealand ,3, +1 , , , 3 , , 
  Russia ,3, , , , 1 ,2 , 
- Brazil ,2, , , , 2 , , 
  Egypt ,2, , , , 1 ,1 , 
- Estonia ,2, +1 , , , 2 , , 
+ Estonia ,2, , , , 2 , , 
  Indonesia ,2, , , , 2 , , 
- Ireland ,2, +1 , , , 2 , , 
- Senegal ,2, +1 , , , 2 , , 
+ Ireland ,2, , , , 2 , , 
+ Saudi Arabia ,2, +1 , , , 2 , , 
+ Chile ,2, +1 , , , 2 , , 
+ Hungary ,2, +2 , , , 2 , , 
  Afghanistan ,1, , , , 1 , , 
  Andorra ,1, , , , 1 , , 
  Armenia ,1, , , , 1 , , 
- Belarus ,1, , , , 1 , , 
  Cambodia ,1, , , , 0 ,1 , 
  Dominican Republic ,1, , , , 1 , , 
  Jordan ,1, , , , 1 , , 
@@ -71,13 +75,11 @@ Country,Total Cases,New Cases,Total Deaths,New Deaths,Active Cases,Recovered,Cri
  Monaco ,1, , , , 1 , , 
  Morocco ,1, , , , 1 , , 
  Nepal ,1, , , , 0 ,1 , 
- New Zealand ,1, , , , 1 , , 
  Nigeria ,1, , , , 1 , , 
- Saudi Arabia ,1, , , , 1 , , 
  Sri Lanka ,1, , , , 0 ,1 , 
  Tunisia ,1, , , , 1 , , 
- Ukraine ,1, +1 , , , 1 , , 
- Argentina ,1, +1 , , , 1 , , 
- Chile ,1, +1 , , , 1 , , 
- Liechtenstein ,1, +1 , , , 1 , , 
-Total:,"92,881","2,432","3,168",51,"41,219","48,494","7,162"
+ Ukraine ,1, , , , 1 , , 
+ Argentina ,1, , , , 1 , , 
+ Liechtenstein ,1, , , , 1 , , 
+ Poland ,1, +1 , , , 1 , , 
+Total:,"95,149","2,247","3,252",88,"40,462","51,435","6,848"

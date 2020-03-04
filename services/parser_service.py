@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 class ParserService:
+
     @staticmethod
     def create_df_worldometer(raw_data):
         """
@@ -39,7 +40,7 @@ class ParserService:
         @Returns:
         Last updated time (string)
         """
-
+        #TODO: 
         soup = BeautifulSoup(raw_data, features="html.parser")
 
         last_updated = soup.find("div", {"style": "font-size:13px; color:#999; text-align:center"})
