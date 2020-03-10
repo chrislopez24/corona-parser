@@ -16,7 +16,7 @@ class ParserService:
         """
         soup = BeautifulSoup(raw_data, features="html.parser")
 
-        COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Active Cases", "Recovered", "Critical"]
+        COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Total Recovered", "Active Cases", "Serious/Critical", "Tot Cases/1M pop"]
 
         _id = "main_table_countries"
 
