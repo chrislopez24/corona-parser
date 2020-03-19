@@ -18,7 +18,7 @@ class ParserService:
 
         COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Total Recovered", "Active Cases", "Serious/Critical", "Tot Cases/1M pop"]
 
-        _id = "main_table_countries"
+        _id = "main_table_countries_today"
 
         countries_data = soup.find("table", attrs={"id": _id}).find("tbody").findAll("tr")
 
