@@ -40,7 +40,7 @@ class ParserService:
         @Returns:
         Last updated time (string)
         """
-        #TODO: 
+        
         soup = BeautifulSoup(raw_data, features="html.parser")
 
         last_updated = soup.find("div", {"style": "font-size:13px; color:#999; text-align:center"})
