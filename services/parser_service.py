@@ -27,7 +27,7 @@ class ParserService:
         parsed_data = []
 
         for country in countries_data:
-            parsed_data.append([data.get_text() for data in country.findAll("td")])
+            parsed_data.append([data.get_text().replace("\n", "") for data in country.findAll("td")])
 
         return pd.DataFrame(parsed_data, columns=COLUMNS)
 
