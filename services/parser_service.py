@@ -16,7 +16,9 @@ class ParserService:
         """
         soup = BeautifulSoup(raw_data, features="html.parser")
 
-        COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths", "New Deaths", "Total Recovered", "Active Cases", "Serious/Critical", "Tot Cases/1M pop", "Tot Deaths/1M pop"]
+        COLUMNS = ["Country", "Total Cases", "New Cases", "Total Deaths",
+                   "New Deaths", "Total Recovered", "Active Cases", "Serious/Critical",
+                   "Tot Cases/1M pop", "Tot Deaths/1M pop", "1st case"]
 
         _id = "main_table_countries_today"
 
@@ -25,7 +27,7 @@ class ParserService:
         parsed_data = []
 
         for country in countries_data:
-            parsed_data.append([data.get_text() for data in country.findAll("td")])
+            parsed_data.append([data.get_text().replace("\n", "") for data in country.findAll("td")])
 
         return pd.DataFrame(parsed_data, columns=COLUMNS)
 
