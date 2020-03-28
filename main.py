@@ -12,4 +12,3 @@ if __name__ == "__main__":
     output.to_csv(r'./cases.csv', index = False)
     print(last_updated)
     print(output)
-
