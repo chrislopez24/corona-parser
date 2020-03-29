@@ -3,7 +3,7 @@ name: Automated cases extraction
 on:
   push:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 * * * *'
 
 jobs:
   get_cases:
@@ -29,7 +29,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git commit -m "Update cases" -a
+        git commit -m "[Job] Update cases" -a
     - name: Push updated cases
       uses: ad-m/github-push-action@master
       with:
