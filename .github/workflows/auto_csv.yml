@@ -1,0 +1,38 @@
+name: Automated CSV extraction
+
+on:
+  push:
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  get_cases:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: Gr1N/setup-poetry@v2
+    - uses: actions/cache@v1
+      with:
+        path: ~/.cache/pypoetry/virtualenvs
+        key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-poetry-
+    - name: Install
+      run: poetry install
+    - name: Run main.py
+      run: poetry run python $GITHUB_WORKSPACE/main.py
+    - name: Commit updated cases
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update cases" -a
+    - name: Push updated cases
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: auto_cases
+        force: true
