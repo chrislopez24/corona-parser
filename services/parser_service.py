@@ -47,7 +47,8 @@ class ParserService:
             parsed_data.append([data.get_text().replace("\n", "") for data
                                 in country_row.findAll("td")])
 
-        return pd.DataFrame(parsed_data, columns=columns)
+        df = pd.DataFrame(parsed_data, columns=columns)
+        return df.replace(to_replace=[""], value=0)
 
     @staticmethod
     def parse_last_updated(raw_data):
