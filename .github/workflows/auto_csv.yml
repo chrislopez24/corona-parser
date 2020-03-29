@@ -3,7 +3,7 @@ name: Automated CSV extraction
 on:
   push:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 */4 * * *'
 
 jobs:
   get_cases:
