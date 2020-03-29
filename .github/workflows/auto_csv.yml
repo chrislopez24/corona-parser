@@ -1,4 +1,4 @@
-name: Automated CSV extraction
+name: Automated cases extraction
 
 on:
   push:
