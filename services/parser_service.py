@@ -15,8 +15,9 @@ class ParserService:
         Table header as string
         """
 
-        header_string = " ".join(th.strings)  # join strings broken by <br> tags
-        return header_string.replace(u"\xa0", u" ")  # replace non-breaking space with space
+        header = " ".join(th.strings)  # join strings broken by <br> tags
+        header = header.replace(u"\xa0", u" ")  # replace non-breaking space with space
+        return header.replace(", ", "/")
 
     @staticmethod
     def create_df_worldometer(raw_data):
