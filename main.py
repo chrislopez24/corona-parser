@@ -10,6 +10,6 @@ if __name__ == "__main__":
     output = parser_service.create_df_worldometer(latest_data)
     last_updated = parser_service.parse_last_updated(latest_data)
     output.to_csv(r'./cases.csv', index=False)
-    output.set_index("Country, Other").to_json(r"./cases.json", orient="index")
+    output.set_index("Country/Other").to_json(r"./cases.json", orient="index")
     print(last_updated)
     print(output)
