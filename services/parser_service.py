@@ -16,7 +16,8 @@ class ParserService:
         """
 
         header = " ".join(th.strings)  # join strings broken by <br> tags
-        header = header.replace(u"\xa0", u" ")  # replace non-breaking space with space
+        # replace non-breaking space with space and remove \n
+        header = header.replace(u"\xa0", u" ").replace("\n", "") 
         return header.replace(", ", "/")
 
     @staticmethod
