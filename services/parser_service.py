@@ -66,7 +66,7 @@ class ParserService:
         
         soup = BeautifulSoup(raw_data, features="html.parser")
         
-        _styles = "font-size: 13px; color: rgb(153, 153, 153); margin-top: 5px; text-align: center;--darkreader-inline-color:#bab5ab;"
+        _styles = "font-size:13px; color:#999; margin-top:5px; text-align:center"
         
         last_updated = soup.find("div", {"style": _styles})
         
