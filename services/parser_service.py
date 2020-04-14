@@ -44,7 +44,7 @@ class ParserService:
         parsed_data = []
         
         def sort_by_total_confirmed(item):
-            return int(item[1])
+            return item[1]
 
         country_rows = countries_table.find("tbody").find_all("tr")
 
