@@ -47,15 +47,27 @@ class ParserService:
         regx = r'(\n|\+|,)'
         country_rows = countries_table.find("tbody").find_all("tr")
 
+        #utility functions
+        def sort_alphabetically(element):
+            sorted_element = element.findAll("td")[1].get_text().strip()
+            return sorted_element
+        
+        #sort countries
+        country_rows.sort(key=sort_alphabetically)
+
         for country_row in country_rows:
             country_classname = re.sub(regx, "", country_row.findAll("td")[0].get_text())
+            #skip continents, we only need countries
             if country_classname is '' or 0:
                 continue
-            parsed_data.append([data.get_text().replace("\n", "") for data
-                                in country_row.findAll("td")])
 
+            parsed_data.append([data.get_text().strip() for data
+                                in country_row.findAll("td")])
+            
+        
         df = pd.DataFrame(parsed_data, columns=columns)
         return df.replace(to_replace=[""], value=0)
+    
 
     @staticmethod
     def parse_last_updated(raw_data):
