@@ -12,7 +12,7 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"35,923",
     "Tests\/  1M pop ":"925",
-    "Population":"38,841,361",
+    "Population":"38,843,762",
     "Continent":"Asia"
   },
   "Albania":{
@@ -28,11 +28,11 @@
     "Deaths\/ 1M pop":"11",
     "Total Tests":"14,269",
     "Tests\/  1M pop ":"4,958",
-    "Population":"2,878,069",
+    "Population":"2,878,060",
     "Continent":"Europe"
   },
   "Algeria":{
-    "#":"53",
+    "#":"54",
     "Total Cases":"9,134",
     "New Cases":"+137",
     "Total Deaths":"638",
@@ -44,11 +44,11 @@
     "Deaths\/ 1M pop":"15",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"43,774,437",
+    "Population":"43,776,603",
     "Continent":"Africa"
   },
   "Andorra":{
-    "#":"121",
+    "#":"122",
     "Total Cases":"764",
     "New Cases":"+1",
     "Total Deaths":"51",
@@ -64,19 +64,19 @@
     "Continent":"Europe"
   },
   "Angola":{
-    "#":"177",
-    "Total Cases":"74",
-    "New Cases":0,
+    "#":"176",
+    "Total Cases":"81",
+    "New Cases":"+7",
     "Total Deaths":"4",
     "New Deaths":0,
     "Total Recovered":"18",
-    "Active Cases":"52",
+    "Active Cases":"59",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"2",
     "Deaths\/ 1M pop":"0.1",
     "Total Tests":"10,000",
     "Tests\/  1M pop ":"305",
-    "Population":"32,759,848",
+    "Population":"32,762,654",
     "Continent":"Africa"
   },
   "Anguilla":{
@@ -96,7 +96,7 @@
     "Continent":"North America"
   },
   "Antigua and Barbuda":{
-    "#":"185",
+    "#":"186",
     "Total Cases":"25",
     "New Cases":0,
     "Total Deaths":"3",
@@ -108,23 +108,23 @@
     "Deaths\/ 1M pop":"31",
     "Total Tests":"183",
     "Tests\/  1M pop ":"1,870",
-    "Population":"97,855",
+    "Population":"97,857",
     "Continent":"North America"
   },
   "Argentina":{
     "#":"43",
-    "Total Cases":"14,702",
-    "New Cases":0,
-    "Total Deaths":"510",
-    "New Deaths":"+2",
+    "Total Cases":"15,419",
+    "New Cases":"+717",
+    "Total Deaths":"520",
+    "New Deaths":"+12",
     "Total Recovered":"4,788",
-    "Active Cases":"9,404",
-    "Serious\/Critical":"171",
-    "Tot Cases\/ 1M pop":"326",
-    "Deaths\/ 1M pop":"11",
+    "Active Cases":"10,111",
+    "Serious\/Critical":"259",
+    "Tot Cases\/ 1M pop":"341",
+    "Deaths\/ 1M pop":"12",
     "Total Tests":"150,486",
     "Tests\/  1M pop ":"3,332",
-    "Population":"45,157,642",
+    "Population":"45,158,774",
     "Continent":"South America"
   },
   "Armenia":{
@@ -139,8 +139,8 @@
     "Tot Cases\/ 1M pop":"2,928",
     "Deaths\/ 1M pop":"41",
     "Total Tests":"56,042",
-    "Tests\/  1M pop ":"18,916",
-    "Population":"2,962,755",
+    "Tests\/  1M pop ":"18,915",
+    "Population":"2,962,770",
     "Continent":"Asia"
   },
   "Aruba":{
@@ -154,9 +154,9 @@
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"946",
     "Deaths\/ 1M pop":"28",
-    "Total Tests":"2,105",
-    "Tests\/  1M pop ":"19,723",
-    "Population":"106,726",
+    "Total Tests":"2,117",
+    "Tests\/  1M pop ":"19,836",
+    "Population":"106,727",
     "Continent":"North America"
   },
   "Australia":{
@@ -171,8 +171,8 @@
     "Tot Cases\/ 1M pop":"282",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"1,397,622",
-    "Tests\/  1M pop ":"54,868",
-    "Population":"25,472,297",
+    "Tests\/  1M pop ":"54,867",
+    "Population":"25,473,105",
     "Continent":"Australia\/Oceania"
   },
   "Austria":{
@@ -188,7 +188,7 @@
     "Deaths\/ 1M pop":"74",
     "Total Tests":"434,302",
     "Tests\/  1M pop ":"48,246",
-    "Population":"9,001,768",
+    "Population":"9,001,908",
     "Continent":"Europe"
   },
   "Azerbaijan":{
@@ -204,7 +204,7 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"284,669",
     "Tests\/  1M pop ":"28,099",
-    "Population":"10,130,782",
+    "Population":"10,131,032",
     "Continent":"Asia"
   },
   "Bahamas":{
@@ -220,7 +220,7 @@
     "Deaths\/ 1M pop":"28",
     "Total Tests":"2,050",
     "Tests\/  1M pop ":"5,218",
-    "Population":"392,898",
+    "Population":"392,908",
     "Continent":"North America"
   },
   "Bahrain":{
@@ -232,11 +232,11 @@
     "Total Recovered":"5,700",
     "Active Cases":"4,734",
     "Serious\/Critical":"9",
-    "Tot Cases\/ 1M pop":"6,164",
+    "Tot Cases\/ 1M pop":"6,163",
     "Deaths\/ 1M pop":"9",
     "Total Tests":"304,179",
-    "Tests\/  1M pop ":"179,426",
-    "Population":"1,695,292",
+    "Tests\/  1M pop ":"179,408",
+    "Population":"1,695,455",
     "Continent":"Asia"
   },
   "Bangladesh":{
@@ -252,7 +252,7 @@
     "Deaths\/ 1M pop":"4",
     "Total Tests":"287,067",
     "Tests\/  1M pop ":"1,745",
-    "Population":"164,537,836",
+    "Population":"164,542,316",
     "Continent":"Asia"
   },
   "Barbados":{
@@ -266,9 +266,9 @@
     "Serious\/Critical":"1",
     "Tot Cases\/ 1M pop":"320",
     "Deaths\/ 1M pop":"24",
-    "Total Tests":"5,201",
-    "Tests\/  1M pop ":"18,100",
-    "Population":"287,344",
+    "Total Tests":"5,272",
+    "Tests\/  1M pop ":"18,347",
+    "Population":"287,345",
     "Continent":"North America"
   },
   "Belarus":{
@@ -283,8 +283,8 @@
     "Tot Cases\/ 1M pop":"4,314",
     "Deaths\/ 1M pop":"24",
     "Total Tests":"512,418",
-    "Tests\/  1M pop ":"54,226",
-    "Population":"9,449,593",
+    "Tests\/  1M pop ":"54,227",
+    "Population":"9,449,585",
     "Continent":"Europe"
   },
   "Belgium":{
@@ -300,7 +300,7 @@
     "Deaths\/ 1M pop":"814",
     "Total Tests":"836,879",
     "Tests\/  1M pop ":"72,237",
-    "Population":"11,585,114",
+    "Population":"11,585,252",
     "Continent":"Europe"
   },
   "Belize":{
@@ -316,11 +316,11 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":"1,572",
     "Tests\/  1M pop ":"3,960",
-    "Population":"396,929",
+    "Population":"396,949",
     "Continent":"North America"
   },
   "Benin":{
-    "#":"153",
+    "#":"154",
     "Total Cases":"224",
     "New Cases":"+14",
     "Total Deaths":"3",
@@ -332,11 +332,11 @@
     "Deaths\/ 1M pop":"0.2",
     "Total Tests":"30,817",
     "Tests\/  1M pop ":"2,549",
-    "Population":"12,091,039",
+    "Population":"12,091,909",
     "Continent":"Africa"
   },
   "Bermuda":{
-    "#":"164",
+    "#":"165",
     "Total Cases":"140",
     "New Cases":0,
     "Total Deaths":"9",
@@ -347,8 +347,8 @@
     "Tot Cases\/ 1M pop":"2,247",
     "Deaths\/ 1M pop":"144",
     "Total Tests":"6,941",
-    "Tests\/  1M pop ":"111,416",
-    "Population":"62,298",
+    "Tests\/  1M pop ":"111,418",
+    "Population":"62,297",
     "Continent":"North America"
   },
   "Bhutan":{
@@ -363,8 +363,8 @@
     "Tot Cases\/ 1M pop":"40",
     "Deaths\/ 1M pop":0,
     "Total Tests":"16,547",
-    "Tests\/  1M pop ":"21,467",
-    "Population":"770,818",
+    "Tests\/  1M pop ":"21,466",
+    "Population":"770,842",
     "Continent":"Asia"
   },
   "Bolivia":{
@@ -380,11 +380,11 @@
     "Deaths\/ 1M pop":"25",
     "Total Tests":"22,294",
     "Tests\/  1M pop ":"1,912",
-    "Population":"11,657,999",
+    "Population":"11,658,434",
     "Continent":"South America"
   },
   "Bosnia and Herzegovina":{
-    "#":"81",
+    "#":"82",
     "Total Cases":"2,485",
     "New Cases":"+23",
     "Total Deaths":"153",
@@ -396,7 +396,7 @@
     "Deaths\/ 1M pop":"47",
     "Total Tests":"63,596",
     "Tests\/  1M pop ":"19,374",
-    "Population":"3,282,532",
+    "Population":"3,282,476",
     "Continent":"Europe"
   },
   "Botswana":{
@@ -411,24 +411,24 @@
     "Tot Cases\/ 1M pop":"15",
     "Deaths\/ 1M pop":"0.4",
     "Total Tests":"17,991",
-    "Tests\/  1M pop ":"7,666",
-    "Population":"2,346,977",
+    "Tests\/  1M pop ":"7,665",
+    "Population":"2,347,107",
     "Continent":"Africa"
   },
   "Brazil":{
     "#":"2",
-    "Total Cases":"450,079",
-    "New Cases":"+11,267",
-    "Total Deaths":"27,276",
-    "New Deaths":"+512",
+    "Total Cases":"468,338",
+    "New Cases":"+29,526",
+    "Total Deaths":"27,944",
+    "New Deaths":"+1,180",
     "Total Recovered":"193,181",
-    "Active Cases":"229,622",
+    "Active Cases":"247,213",
     "Serious\/Critical":"8,318",
-    "Tot Cases\/ 1M pop":"2,119",
-    "Deaths\/ 1M pop":"128",
+    "Tot Cases\/ 1M pop":"2,205",
+    "Deaths\/ 1M pop":"132",
     "Total Tests":"871,839",
     "Tests\/  1M pop ":"4,104",
-    "Population":"212,422,152",
+    "Population":"212,426,274",
     "Continent":"South America"
   },
   "British Virgin Islands":{
@@ -459,12 +459,12 @@
     "Tot Cases\/ 1M pop":"323",
     "Deaths\/ 1M pop":"5",
     "Total Tests":"18,962",
-    "Tests\/  1M pop ":"43,382",
-    "Population":"437,093",
+    "Tests\/  1M pop ":"43,381",
+    "Population":"437,104",
     "Continent":"Asia"
   },
   "Bulgaria":{
-    "#":"82",
+    "#":"83",
     "Total Cases":"2,485",
     "New Cases":"+8",
     "Total Deaths":"136",
@@ -475,24 +475,24 @@
     "Tot Cases\/ 1M pop":"357",
     "Deaths\/ 1M pop":"20",
     "Total Tests":"79,389",
-    "Tests\/  1M pop ":"11,418",
-    "Population":"6,952,801",
+    "Tests\/  1M pop ":"11,419",
+    "Population":"6,952,659",
     "Continent":"Europe"
   },
   "Burkina Faso":{
-    "#":"118",
+    "#":"119",
     "Total Cases":"847",
     "New Cases":0,
     "Total Deaths":"53",
     "New Deaths":0,
-    "Total Recovered":"719",
-    "Active Cases":"75",
+    "Total Recovered":"720",
+    "Active Cases":"74",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"41",
     "Deaths\/ 1M pop":"3",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"20,844,819",
+    "Population":"20,846,391",
     "Continent":"Africa"
   },
   "Burundi":{
@@ -508,39 +508,39 @@
     "Deaths\/ 1M pop":"0.08",
     "Total Tests":"284",
     "Tests\/  1M pop ":"24",
-    "Population":"11,854,190",
+    "Population":"11,855,161",
     "Continent":"Africa"
   },
   "CAR":{
-    "#":"124",
-    "Total Cases":"755",
-    "New Cases":0,
+    "#":"118",
+    "Total Cases":"874",
+    "New Cases":"+119",
     "Total Deaths":"1",
     "New Deaths":0,
     "Total Recovered":"23",
-    "Active Cases":"731",
+    "Active Cases":"850",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"157",
+    "Tot Cases\/ 1M pop":"181",
     "Deaths\/ 1M pop":"0.2",
-    "Total Tests":"11,570",
-    "Tests\/  1M pop ":"2,400",
-    "Population":"4,821,674",
+    "Total Tests":"14,557",
+    "Tests\/  1M pop ":"3,019",
+    "Population":"4,821,903",
     "Continent":"Africa"
   },
   "Cabo Verde":{
     "#":"142",
-    "Total Cases":"390",
-    "New Cases":0,
+    "Total Cases":"405",
+    "New Cases":"+15",
     "Total Deaths":"4",
     "New Deaths":0,
     "Total Recovered":"155",
-    "Active Cases":"231",
+    "Active Cases":"246",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"702",
+    "Tot Cases\/ 1M pop":"729",
     "Deaths\/ 1M pop":"7",
     "Total Tests":"1,307",
     "Tests\/  1M pop ":"2,353",
-    "Population":"555,426",
+    "Population":"555,443",
     "Continent":"Africa"
   },
   "Cambodia":{
@@ -556,39 +556,39 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"19,457",
     "Tests\/  1M pop ":"1,165",
-    "Population":"16,697,111",
+    "Population":"16,697,744",
     "Continent":"Asia"
   },
   "Cameroon":{
     "#":"65",
     "Total Cases":"5,436",
     "New Cases":0,
-    "Total Deaths":"175",
-    "New Deaths":0,
-    "Total Recovered":"1,996",
-    "Active Cases":"3,265",
+    "Total Deaths":"177",
+    "New Deaths":"+2",
+    "Total Recovered":"3,326",
+    "Active Cases":"1,933",
     "Serious\/Critical":"28",
     "Tot Cases\/ 1M pop":"205",
     "Deaths\/ 1M pop":"7",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"26,479,422",
+    "Population":"26,481,233",
     "Continent":"Africa"
   },
   "Canada":{
     "#":"14",
-    "Total Cases":"89,386",
-    "New Cases":"+874",
+    "Total Cases":"89,418",
+    "New Cases":"+906",
     "Total Deaths":"6,979",
     "New Deaths":"+102",
-    "Total Recovered":"47,441",
-    "Active Cases":"34,966",
+    "Total Recovered":"47,518",
+    "Active Cases":"34,921",
     "Serious\/Critical":"1,613",
-    "Tot Cases\/ 1M pop":"2,370",
+    "Tot Cases\/ 1M pop":"2,371",
     "Deaths\/ 1M pop":"185",
-    "Total Tests":"1,585,235",
-    "Tests\/  1M pop ":"42,036",
-    "Population":"37,711,800",
+    "Total Tests":"1,596,449",
+    "Tests\/  1M pop ":"42,332",
+    "Population":"37,712,703",
     "Continent":"North America"
   },
   "Caribbean Netherlands":{
@@ -608,23 +608,23 @@
     "Continent":"North America"
   },
   "Cayman Islands":{
-    "#":"165",
-    "Total Cases":"140",
-    "New Cases":0,
+    "#":"164",
+    "Total Cases":"141",
+    "New Cases":"+1",
     "Total Deaths":"1",
     "New Deaths":0,
-    "Total Recovered":"67",
+    "Total Recovered":"68",
     "Active Cases":"72",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"2,133",
+    "Tot Cases\/ 1M pop":"2,148",
     "Deaths\/ 1M pop":"15",
-    "Total Tests":"10,466",
-    "Tests\/  1M pop ":"159,421",
-    "Population":"65,650",
+    "Total Tests":"11,139",
+    "Tests\/  1M pop ":"169,667",
+    "Population":"65,652",
     "Continent":"North America"
   },
   "Chad":{
-    "#":"122",
+    "#":"123",
     "Total Cases":"759",
     "New Cases":"+33",
     "Total Deaths":"65",
@@ -636,7 +636,7 @@
     "Deaths\/ 1M pop":"4",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"16,377,454",
+    "Population":"16,378,747",
     "Continent":"Africa"
   },
   "Channel Islands":{
@@ -651,8 +651,8 @@
     "Tot Cases\/ 1M pop":"3,224",
     "Deaths\/ 1M pop":"259",
     "Total Tests":"10,255",
-    "Tests\/  1M pop ":"59,033",
-    "Population":"173,716",
+    "Tests\/  1M pop ":"59,032",
+    "Population":"173,720",
     "Continent":"Europe"
   },
   "Chile":{
@@ -667,8 +667,8 @@
     "Tot Cases\/ 1M pop":"4,745",
     "Deaths\/ 1M pop":"49",
     "Total Tests":"546,506",
-    "Tests\/  1M pop ":"28,611",
-    "Population":"19,101,165",
+    "Tests\/  1M pop ":"28,610",
+    "Population":"19,101,613",
     "Continent":"South America"
   },
   "China":{
@@ -689,18 +689,18 @@
   },
   "Colombia":{
     "#":"30",
-    "Total Cases":"25,366",
-    "New Cases":0,
-    "Total Deaths":"822",
-    "New Deaths":0,
-    "Total Recovered":"6,665",
-    "Active Cases":"17,879",
+    "Total Cases":"26,688",
+    "New Cases":"+1,322",
+    "Total Deaths":"853",
+    "New Deaths":"+31",
+    "Total Recovered":"6,913",
+    "Active Cases":"18,922",
     "Serious\/Critical":"136",
-    "Tot Cases\/ 1M pop":"499",
-    "Deaths\/ 1M pop":"16",
+    "Tot Cases\/ 1M pop":"525",
+    "Deaths\/ 1M pop":"17",
     "Total Tests":"283,346",
     "Tests\/  1M pop ":"5,574",
-    "Population":"50,832,596",
+    "Population":"50,834,077",
     "Continent":"South America"
   },
   "Comoros":{
@@ -716,7 +716,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"867,776",
+    "Population":"867,826",
     "Continent":"Africa"
   },
   "Congo":{
@@ -732,7 +732,7 @@
     "Deaths\/ 1M pop":"3",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"5,504,452",
+    "Population":"5,504,824",
     "Continent":"Africa"
   },
   "Costa Rica":{
@@ -747,8 +747,8 @@
     "Tot Cases\/ 1M pop":"201",
     "Deaths\/ 1M pop":"2",
     "Total Tests":"25,503",
-    "Tests\/  1M pop ":"5,011",
-    "Population":"5,089,842",
+    "Tests\/  1M pop ":"5,010",
+    "Population":"5,089,969",
     "Continent":"North America"
   },
   "Croatia":{
@@ -764,7 +764,7 @@
     "Deaths\/ 1M pop":"25",
     "Total Tests":"65,509",
     "Tests\/  1M pop ":"15,949",
-    "Population":"4,107,393",
+    "Population":"4,107,324",
     "Continent":"Europe"
   },
   "Cuba":{
@@ -780,7 +780,7 @@
     "Deaths\/ 1M pop":"7",
     "Total Tests":"101,108",
     "Tests\/  1M pop ":"8,926",
-    "Population":"11,327,216",
+    "Population":"11,327,197",
     "Continent":"North America"
   },
   "Cura\u00e7ao":{
@@ -796,7 +796,7 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"572",
     "Tests\/  1M pop ":"3,487",
-    "Population":"164,033",
+    "Population":"164,035",
     "Continent":"North America"
   },
   "Cyprus":{
@@ -811,12 +811,12 @@
     "Tot Cases\/ 1M pop":"781",
     "Deaths\/ 1M pop":"14",
     "Total Tests":"111,270",
-    "Tests\/  1M pop ":"92,221",
-    "Population":"1,206,560",
+    "Tests\/  1M pop ":"92,219",
+    "Population":"1,206,584",
     "Continent":"Asia"
   },
   "Czechia":{
-    "#":"52",
+    "#":"53",
     "Total Cases":"9,180",
     "New Cases":"+40",
     "Total Deaths":"319",
@@ -828,7 +828,7 @@
     "Deaths\/ 1M pop":"30",
     "Total Tests":"430,564",
     "Tests\/  1M pop ":"40,212",
-    "Population":"10,707,231",
+    "Population":"10,707,285",
     "Continent":"Europe"
   },
   "DRC":{
@@ -844,7 +844,7 @@
     "Deaths\/ 1M pop":"0.8",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"89,279,074",
+    "Population":"89,286,547",
     "Continent":"Africa"
   },
   "Denmark":{
@@ -859,8 +859,8 @@
     "Tot Cases\/ 1M pop":"2,002",
     "Deaths\/ 1M pop":"98",
     "Total Tests":"606,574",
-    "Tests\/  1M pop ":"104,755",
-    "Population":"5,790,388",
+    "Tests\/  1M pop ":"104,754",
+    "Population":"5,790,443",
     "Continent":"Europe"
   },
   "Diamond Princess":{
@@ -891,8 +891,8 @@
     "Tot Cases\/ 1M pop":"2,953",
     "Deaths\/ 1M pop":"20",
     "Total Tests":"25,257",
-    "Tests\/  1M pop ":"25,599",
-    "Population":"986,638",
+    "Tests\/  1M pop ":"25,598",
+    "Population":"986,677",
     "Continent":"Africa"
   },
   "Dominica":{
@@ -908,7 +908,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"433",
     "Tests\/  1M pop ":"6,016",
-    "Population":"71,970",
+    "Population":"71,971",
     "Continent":"North America"
   },
   "Dominican Republic":{
@@ -924,23 +924,23 @@
     "Deaths\/ 1M pop":"45",
     "Total Tests":"76,930",
     "Tests\/  1M pop ":"7,098",
-    "Population":"10,837,859",
+    "Population":"10,838,156",
     "Continent":"North America"
   },
   "Ecuador":{
     "#":"23",
-    "Total Cases":"38,471",
-    "New Cases":0,
-    "Total Deaths":"3,313",
-    "New Deaths":0,
-    "Total Recovered":"18,425",
-    "Active Cases":"16,733",
+    "Total Cases":"38,571",
+    "New Cases":"+100",
+    "Total Deaths":"3,334",
+    "New Deaths":"+21",
+    "Total Recovered":"19,190",
+    "Active Cases":"16,047",
     "Serious\/Critical":"220",
-    "Tot Cases\/ 1M pop":"2,184",
-    "Deaths\/ 1M pop":"188",
-    "Total Tests":"110,812",
-    "Tests\/  1M pop ":"6,290",
-    "Population":"17,617,555",
+    "Tot Cases\/ 1M pop":"2,189",
+    "Deaths\/ 1M pop":"189",
+    "Total Tests":"113,808",
+    "Tests\/  1M pop ":"6,460",
+    "Population":"17,618,288",
     "Continent":"South America"
   },
   "Egypt":{
@@ -956,7 +956,7 @@
     "Deaths\/ 1M pop":"9",
     "Total Tests":"135,000",
     "Tests\/  1M pop ":"1,322",
-    "Population":"102,146,819",
+    "Population":"102,152,100",
     "Continent":"Africa"
   },
   "El Salvador":{
@@ -972,7 +972,7 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"84,650",
     "Tests\/  1M pop ":"13,057",
-    "Population":"6,483,267",
+    "Population":"6,483,357",
     "Continent":"North America"
   },
   "Equatorial Guinea":{
@@ -988,7 +988,7 @@
     "Deaths\/ 1M pop":"9",
     "Total Tests":"854",
     "Tests\/  1M pop ":"611",
-    "Population":"1,398,140",
+    "Population":"1,398,267",
     "Continent":"Africa"
   },
   "Eritrea":{
@@ -1004,7 +1004,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"3,541,785",
+    "Population":"3,541,919",
     "Continent":"Africa"
   },
   "Estonia":{
@@ -1020,7 +1020,7 @@
     "Deaths\/ 1M pop":"51",
     "Total Tests":"81,719",
     "Tests\/  1M pop ":"61,607",
-    "Population":"1,326,457",
+    "Population":"1,326,459",
     "Continent":"Europe"
   },
   "Eswatini":{
@@ -1036,7 +1036,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"4,994",
     "Tests\/  1M pop ":"4,309",
-    "Population":"1,159,052",
+    "Population":"1,159,085",
     "Continent":"Africa"
   },
   "Ethiopia":{
@@ -1052,7 +1052,7 @@
     "Deaths\/ 1M pop":"0.07",
     "Total Tests":"101,581",
     "Tests\/  1M pop ":"886",
-    "Population":"114,677,457",
+    "Population":"114,685,261",
     "Continent":"Africa"
   },
   "Faeroe Islands":{
@@ -1067,8 +1067,8 @@
     "Tot Cases\/ 1M pop":"3,828",
     "Deaths\/ 1M pop":0,
     "Total Tests":"9,568",
-    "Tests\/  1M pop ":"195,881",
-    "Population":"48,846",
+    "Tests\/  1M pop ":"195,877",
+    "Population":"48,847",
     "Continent":"Europe"
   },
   "Falkland Islands":{
@@ -1100,7 +1100,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"2,431",
     "Tests\/  1M pop ":"2,714",
-    "Population":"895,854",
+    "Population":"895,872",
     "Continent":"Australia\/Oceania"
   },
   "Finland":{
@@ -1116,7 +1116,7 @@
     "Deaths\/ 1M pop":"57",
     "Total Tests":"179,400",
     "Tests\/  1M pop ":"32,383",
-    "Population":"5,539,963",
+    "Population":"5,539,987",
     "Continent":"Europe"
   },
   "France":{
@@ -1132,23 +1132,23 @@
     "Deaths\/ 1M pop":"440",
     "Total Tests":"1,384,633",
     "Tests\/  1M pop ":"21,217",
-    "Population":"65,260,761",
+    "Population":"65,261,155",
     "Continent":"Europe"
   },
   "French Guiana":{
-    "#":"139",
-    "Total Cases":"436",
-    "New Cases":0,
+    "#":"137",
+    "Total Cases":"450",
+    "New Cases":"+14",
     "Total Deaths":"1",
     "New Deaths":0,
-    "Total Recovered":"161",
-    "Active Cases":"274",
+    "Total Recovered":"172",
+    "Active Cases":"277",
     "Serious\/Critical":"2",
-    "Tot Cases\/ 1M pop":"1,464",
+    "Tot Cases\/ 1M pop":"1,510",
     "Deaths\/ 1M pop":"3",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"297,899",
+    "Population":"297,920",
     "Continent":"South America"
   },
   "French Polynesia":{
@@ -1164,39 +1164,39 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"4,006",
     "Tests\/  1M pop ":"14,268",
-    "Population":"280,762",
+    "Population":"280,766",
     "Continent":"Australia\/Oceania"
   },
   "Gabon":{
-    "#":"83",
-    "Total Cases":"2,431",
-    "New Cases":0,
-    "Total Deaths":"14",
-    "New Deaths":0,
-    "Total Recovered":"668",
-    "Active Cases":"1,749",
+    "#":"81",
+    "Total Cases":"2,613",
+    "New Cases":"+182",
+    "Total Deaths":"15",
+    "New Deaths":"+1",
+    "Total Recovered":"709",
+    "Active Cases":"1,889",
     "Serious\/Critical":"15",
-    "Tot Cases\/ 1M pop":"1,095",
-    "Deaths\/ 1M pop":"6",
-    "Total Tests":"12,669",
-    "Tests\/  1M pop ":"5,705",
-    "Population":"2,220,492",
+    "Tot Cases\/ 1M pop":"1,177",
+    "Deaths\/ 1M pop":"7",
+    "Total Tests":"13,833",
+    "Tests\/  1M pop ":"6,229",
+    "Population":"2,220,636",
     "Continent":"Africa"
   },
   "Gambia":{
-    "#":"186",
+    "#":"187",
     "Total Cases":"25",
     "New Cases":0,
     "Total Deaths":"1",
     "New Deaths":0,
-    "Total Recovered":"19",
-    "Active Cases":"5",
+    "Total Recovered":"20",
+    "Active Cases":"4",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"10",
     "Deaths\/ 1M pop":"0.4",
-    "Total Tests":"1,730",
-    "Tests\/  1M pop ":"718",
-    "Population":"2,409,718",
+    "Total Tests":"1,756",
+    "Tests\/  1M pop ":"729",
+    "Population":"2,409,904",
     "Continent":"Africa"
   },
   "Georgia":{
@@ -1212,7 +1212,7 @@
     "Deaths\/ 1M pop":"3",
     "Total Tests":"53,618",
     "Tests\/  1M pop ":"13,439",
-    "Population":"3,989,827",
+    "Population":"3,989,806",
     "Continent":"Asia"
   },
   "Germany":{
@@ -1228,7 +1228,7 @@
     "Deaths\/ 1M pop":"103",
     "Total Tests":"3,952,971",
     "Tests\/  1M pop ":"47,194",
-    "Population":"83,760,156",
+    "Population":"83,760,886",
     "Continent":"Europe"
   },
   "Ghana":{
@@ -1244,7 +1244,7 @@
     "Deaths\/ 1M pop":"1",
     "Total Tests":"208,328",
     "Tests\/  1M pop ":"6,718",
-    "Population":"31,009,181",
+    "Population":"31,010,956",
     "Continent":"Africa"
   },
   "Gibraltar":{
@@ -1276,7 +1276,7 @@
     "Deaths\/ 1M pop":"17",
     "Total Tests":"174,844",
     "Tests\/  1M pop ":"16,768",
-    "Population":"10,427,362",
+    "Population":"10,427,224",
     "Continent":"Europe"
   },
   "Greenland":{
@@ -1291,8 +1291,8 @@
     "Tot Cases\/ 1M pop":"229",
     "Deaths\/ 1M pop":0,
     "Total Tests":"2,030",
-    "Tests\/  1M pop ":"35,764",
-    "Population":"56,761",
+    "Tests\/  1M pop ":"35,763",
+    "Population":"56,762",
     "Continent":"North America"
   },
   "Grenada":{
@@ -1307,23 +1307,23 @@
     "Tot Cases\/ 1M pop":"204",
     "Deaths\/ 1M pop":0,
     "Total Tests":"3,007",
-    "Tests\/  1M pop ":"26,735",
-    "Population":"112,476",
+    "Tests\/  1M pop ":"26,734",
+    "Population":"112,478",
     "Continent":"North America"
   },
   "Guadeloupe":{
     "#":"159",
-    "Total Cases":"161",
-    "New Cases":0,
+    "Total Cases":"162",
+    "New Cases":"+1",
     "Total Deaths":"14",
     "New Deaths":0,
-    "Total Recovered":"115",
-    "Active Cases":"32",
-    "Serious\/Critical":"3",
-    "Tot Cases\/ 1M pop":"402",
+    "Total Recovered":"138",
+    "Active Cases":"10",
+    "Serious\/Critical":"1",
+    "Tot Cases\/ 1M pop":"405",
     "Deaths\/ 1M pop":"35",
-    "Total Tests":"3,573",
-    "Tests\/  1M pop ":"8,930",
+    "Total Tests":"4,137",
+    "Tests\/  1M pop ":"10,339",
     "Population":"400,118",
     "Continent":"North America"
   },
@@ -1340,39 +1340,39 @@
     "Deaths\/ 1M pop":"4",
     "Total Tests":"31,427",
     "Tests\/  1M pop ":"1,757",
-    "Population":"17,883,425",
+    "Population":"17,884,332",
     "Continent":"North America"
   },
   "Guinea":{
     "#":"73",
-    "Total Cases":"3,553",
-    "New Cases":0,
+    "Total Cases":"3,656",
+    "New Cases":"+103",
     "Total Deaths":"22",
     "New Deaths":0,
-    "Total Recovered":"1,950",
-    "Active Cases":"1,581",
+    "Total Recovered":"2,000",
+    "Active Cases":"1,634",
     "Serious\/Critical":"24",
-    "Tot Cases\/ 1M pop":"271",
+    "Tot Cases\/ 1M pop":"279",
     "Deaths\/ 1M pop":"2",
     "Total Tests":"14,407",
     "Tests\/  1M pop ":"1,100",
-    "Population":"13,096,527",
+    "Population":"13,097,504",
     "Continent":"Africa"
   },
   "Guinea-Bissau":{
-    "#":"105",
-    "Total Cases":"1,195",
-    "New Cases":0,
+    "#":"103",
+    "Total Cases":"1,256",
+    "New Cases":"+61",
     "Total Deaths":"8",
     "New Deaths":0,
     "Total Recovered":"42",
-    "Active Cases":"1,145",
+    "Active Cases":"1,206",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"609",
+    "Tot Cases\/ 1M pop":"640",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"1,500",
     "Tests\/  1M pop ":"764",
-    "Population":"1,963,357",
+    "Population":"1,963,484",
     "Continent":"Africa"
   },
   "Guyana":{
@@ -1388,7 +1388,7 @@
     "Deaths\/ 1M pop":"14",
     "Total Tests":"1,559",
     "Tests\/  1M pop ":"1,983",
-    "Population":"786,212",
+    "Population":"786,222",
     "Continent":"South America"
   },
   "Haiti":{
@@ -1404,7 +1404,7 @@
     "Deaths\/ 1M pop":"3",
     "Total Tests":"3,475",
     "Tests\/  1M pop ":"305",
-    "Population":"11,389,523",
+    "Population":"11,389,903",
     "Continent":"North America"
   },
   "Honduras":{
@@ -1416,11 +1416,11 @@
     "Total Recovered":"519",
     "Active Cases":"4,037",
     "Serious\/Critical":"13",
-    "Tot Cases\/ 1M pop":"481",
+    "Tot Cases\/ 1M pop":"480",
     "Deaths\/ 1M pop":"20",
     "Total Tests":"14,790",
-    "Tests\/  1M pop ":"1,496",
-    "Population":"9,889,552",
+    "Tests\/  1M pop ":"1,495",
+    "Population":"9,889,983",
     "Continent":"North America"
   },
   "Hong Kong":{
@@ -1436,7 +1436,7 @@
     "Deaths\/ 1M pop":"0.5",
     "Total Tests":"202,930",
     "Tests\/  1M pop ":"27,088",
-    "Population":"7,491,423",
+    "Population":"7,491,589",
     "Continent":"Asia"
   },
   "Hungary":{
@@ -1452,7 +1452,7 @@
     "Deaths\/ 1M pop":"54",
     "Total Tests":"180,152",
     "Tests\/  1M pop ":"18,645",
-    "Population":"9,662,456",
+    "Population":"9,662,389",
     "Continent":"Europe"
   },
   "Iceland":{
@@ -1464,27 +1464,27 @@
     "Total Recovered":"1,794",
     "Active Cases":"1",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"5,293",
+    "Tot Cases\/ 1M pop":"5,292",
     "Deaths\/ 1M pop":"29",
     "Total Tests":"60,491",
-    "Tests\/  1M pop ":"177,371",
-    "Population":"341,043",
+    "Tests\/  1M pop ":"177,367",
+    "Population":"341,049",
     "Continent":"Europe"
   },
   "India":{
     "#":"9",
-    "Total Cases":"173,458",
-    "New Cases":"+8,072",
+    "Total Cases":"173,491",
+    "New Cases":"+8,105",
     "Total Deaths":"4,980",
     "New Deaths":"+269",
-    "Total Recovered":"82,468",
-    "Active Cases":"86,010",
+    "Total Recovered":"82,627",
+    "Active Cases":"85,884",
     "Serious\/Critical":"8,944",
     "Tot Cases\/ 1M pop":"126",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"3,483,838",
     "Tests\/  1M pop ":"2,527",
-    "Population":"1,378,752,175",
+    "Population":"1,378,789,216",
     "Continent":"Asia"
   },
   "Indonesia":{
@@ -1500,11 +1500,11 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"300,545",
     "Tests\/  1M pop ":"1,100",
-    "Population":"273,255,522",
+    "Population":"273,263,419",
     "Continent":"Asia"
   },
   "Iran":{
-    "#":"11",
+    "#":"12",
     "Total Cases":"146,668",
     "New Cases":"+2,819",
     "Total Deaths":"7,677",
@@ -1516,7 +1516,7 @@
     "Deaths\/ 1M pop":"92",
     "Total Tests":"896,571",
     "Tests\/  1M pop ":"10,687",
-    "Population":"83,892,015",
+    "Population":"83,894,952",
     "Continent":"Asia"
   },
   "Iraq":{
@@ -1531,8 +1531,8 @@
     "Tot Cases\/ 1M pop":"146",
     "Deaths\/ 1M pop":"5",
     "Total Tests":"211,485",
-    "Tests\/  1M pop ":"5,270",
-    "Population":"40,132,981",
+    "Tests\/  1M pop ":"5,269",
+    "Population":"40,135,453",
     "Continent":"Asia"
   },
   "Ireland":{
@@ -1547,8 +1547,8 @@
     "Tot Cases\/ 1M pop":"5,043",
     "Deaths\/ 1M pop":"333",
     "Total Tests":"325,795",
-    "Tests\/  1M pop ":"66,049",
-    "Population":"4,932,656",
+    "Tests\/  1M pop ":"66,047",
+    "Population":"4,932,806",
     "Continent":"Europe"
   },
   "Isle of Man":{
@@ -1563,8 +1563,8 @@
     "Tot Cases\/ 1M pop":"3,953",
     "Deaths\/ 1M pop":"282",
     "Total Tests":"4,756",
-    "Tests\/  1M pop ":"55,958",
-    "Population":"84,993",
+    "Tests\/  1M pop ":"55,957",
+    "Population":"84,994",
     "Continent":"Europe"
   },
   "Israel":{
@@ -1596,23 +1596,23 @@
     "Deaths\/ 1M pop":"550",
     "Total Tests":"3,755,279",
     "Tests\/  1M pop ":"62,102",
-    "Population":"60,469,504",
+    "Population":"60,469,262",
     "Continent":"Europe"
   },
   "Ivory Coast":{
     "#":"80",
-    "Total Cases":"2,641",
-    "New Cases":0,
+    "Total Cases":"2,750",
+    "New Cases":"+109",
     "Total Deaths":"32",
     "New Deaths":0,
-    "Total Recovered":"1,326",
-    "Active Cases":"1,283",
+    "Total Recovered":"1,370",
+    "Active Cases":"1,348",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"100",
+    "Tot Cases\/ 1M pop":"105",
     "Deaths\/ 1M pop":"1",
-    "Total Tests":"26,021",
-    "Tests\/  1M pop ":"989",
-    "Population":"26,312,643",
+    "Total Tests":"26,548",
+    "Tests\/  1M pop ":"1,009",
+    "Population":"26,314,434",
     "Continent":"Africa"
   },
   "Jamaica":{
@@ -1628,23 +1628,23 @@
     "Deaths\/ 1M pop":"3",
     "Total Tests":"11,460",
     "Tests\/  1M pop ":"3,872",
-    "Population":"2,960,012",
+    "Population":"2,960,047",
     "Continent":"North America"
   },
   "Japan":{
     "#":"39",
-    "Total Cases":"16,683",
-    "New Cases":0,
-    "Total Deaths":"867",
-    "New Deaths":0,
-    "Total Recovered":"14,147",
-    "Active Cases":"1,669",
-    "Serious\/Critical":"136",
+    "Total Cases":"16,719",
+    "New Cases":"+36",
+    "Total Deaths":"874",
+    "New Deaths":"+7",
+    "Total Recovered":"14,254",
+    "Active Cases":"1,591",
+    "Serious\/Critical":"131",
     "Tot Cases\/ 1M pop":"132",
     "Deaths\/ 1M pop":"7",
-    "Total Tests":"281,293",
-    "Tests\/  1M pop ":"2,223",
-    "Population":"126,509,583",
+    "Total Tests":"284,763",
+    "Tests\/  1M pop ":"2,251",
+    "Population":"126,508,530",
     "Continent":"Asia"
   },
   "Jordan":{
@@ -1659,8 +1659,8 @@
     "Tot Cases\/ 1M pop":"72",
     "Deaths\/ 1M pop":"0.9",
     "Total Tests":"180,119",
-    "Tests\/  1M pop ":"17,670",
-    "Population":"10,193,780",
+    "Tests\/  1M pop ":"17,669",
+    "Population":"10,194,057",
     "Continent":"Asia"
   },
   "Kazakhstan":{
@@ -1675,8 +1675,8 @@
     "Tot Cases\/ 1M pop":"530",
     "Deaths\/ 1M pop":"2",
     "Total Tests":"761,727",
-    "Tests\/  1M pop ":"40,613",
-    "Population":"18,755,722",
+    "Tests\/  1M pop ":"40,612",
+    "Population":"18,756,335",
     "Continent":"Asia"
   },
   "Kenya":{
@@ -1692,7 +1692,7 @@
     "Deaths\/ 1M pop":"1",
     "Total Tests":"74,003",
     "Tests\/  1M pop ":"1,379",
-    "Population":"53,654,106",
+    "Population":"53,657,349",
     "Continent":"Africa"
   },
   "Kuwait":{
@@ -1707,8 +1707,8 @@
     "Tot Cases\/ 1M pop":"5,905",
     "Deaths\/ 1M pop":"45",
     "Total Tests":"282,341",
-    "Tests\/  1M pop ":"66,206",
-    "Population":"4,264,573",
+    "Tests\/  1M pop ":"66,203",
+    "Population":"4,264,746",
     "Continent":"Asia"
   },
   "Kyrgyzstan":{
@@ -1724,7 +1724,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"109,521",
     "Tests\/  1M pop ":"16,813",
-    "Population":"6,513,873",
+    "Population":"6,514,168",
     "Continent":"Asia"
   },
   "Laos":{
@@ -1740,7 +1740,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"6,141",
     "Tests\/  1M pop ":"845",
-    "Population":"7,265,550",
+    "Population":"7,265,839",
     "Continent":"Asia"
   },
   "Latvia":{
@@ -1755,8 +1755,8 @@
     "Tot Cases\/ 1M pop":"564",
     "Deaths\/ 1M pop":"13",
     "Total Tests":"106,931",
-    "Tests\/  1M pop ":"56,640",
-    "Population":"1,887,898",
+    "Tests\/  1M pop ":"56,642",
+    "Population":"1,887,841",
     "Continent":"Europe"
   },
   "Lebanon":{
@@ -1771,8 +1771,8 @@
     "Tot Cases\/ 1M pop":"172",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"80,239",
-    "Tests\/  1M pop ":"11,751",
-    "Population":"6,828,038",
+    "Tests\/  1M pop ":"11,752",
+    "Population":"6,827,955",
     "Continent":"Asia"
   },
   "Lesotho":{
@@ -1788,7 +1788,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"283",
     "Tests\/  1M pop ":"132",
-    "Population":"2,140,699",
+    "Population":"2,140,745",
     "Continent":"Africa"
   },
   "Liberia":{
@@ -1804,23 +1804,23 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"5,045,821",
+    "Population":"5,046,147",
     "Continent":"Africa"
   },
   "Libya":{
-    "#":"169",
-    "Total Cases":"105",
-    "New Cases":0,
+    "#":"168",
+    "Total Cases":"118",
+    "New Cases":"+13",
     "Total Deaths":"5",
     "New Deaths":0,
     "Total Recovered":"41",
-    "Active Cases":"59",
+    "Active Cases":"72",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"15",
+    "Tot Cases\/ 1M pop":"17",
     "Deaths\/ 1M pop":"0.7",
     "Total Tests":"5,154",
     "Tests\/  1M pop ":"751",
-    "Population":"6,862,479",
+    "Population":"6,862,735",
     "Continent":"Africa"
   },
   "Liechtenstein":{
@@ -1835,8 +1835,8 @@
     "Tot Cases\/ 1M pop":"2,151",
     "Deaths\/ 1M pop":"26",
     "Total Tests":"900",
-    "Tests\/  1M pop ":"23,611",
-    "Population":"38,118",
+    "Tests\/  1M pop ":"23,610",
+    "Population":"38,119",
     "Continent":"Europe"
   },
   "Lithuania":{
@@ -1851,8 +1851,8 @@
     "Tot Cases\/ 1M pop":"610",
     "Deaths\/ 1M pop":"25",
     "Total Tests":"294,091",
-    "Tests\/  1M pop ":"107,910",
-    "Population":"2,725,331",
+    "Tests\/  1M pop ":"107,914",
+    "Population":"2,725,228",
     "Continent":"Europe"
   },
   "Luxembourg":{
@@ -1867,8 +1867,8 @@
     "Tot Cases\/ 1M pop":"6,419",
     "Deaths\/ 1M pop":"176",
     "Total Tests":"72,996",
-    "Tests\/  1M pop ":"116,793",
-    "Population":"625,003",
+    "Tests\/  1M pop ":"116,788",
+    "Population":"625,031",
     "Continent":"Europe"
   },
   "MS Zaandam":{
@@ -1900,7 +1900,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"648,500",
+    "Population":"648,524",
     "Continent":"Asia"
   },
   "Madagascar":{
@@ -1916,23 +1916,23 @@
     "Deaths\/ 1M pop":"0.2",
     "Total Tests":"10,249",
     "Tests\/  1M pop ":"371",
-    "Population":"27,619,112",
+    "Population":"27,621,064",
     "Continent":"Africa"
   },
   "Malawi":{
-    "#":"155",
-    "Total Cases":"203",
-    "New Cases":0,
+    "#":"152",
+    "Total Cases":"273",
+    "New Cases":"+70",
     "Total Deaths":"4",
     "New Deaths":0,
     "Total Recovered":"42",
-    "Active Cases":"157",
+    "Active Cases":"227",
     "Serious\/Critical":"1",
-    "Tot Cases\/ 1M pop":"11",
+    "Tot Cases\/ 1M pop":"14",
     "Deaths\/ 1M pop":"0.2",
     "Total Tests":"3,372",
     "Tests\/  1M pop ":"177",
-    "Population":"19,079,984",
+    "Population":"19,081,339",
     "Continent":"Africa"
   },
   "Malaysia":{
@@ -1947,28 +1947,28 @@
     "Tot Cases\/ 1M pop":"239",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"519,944",
-    "Tests\/  1M pop ":"16,084",
-    "Population":"32,327,063",
+    "Tests\/  1M pop ":"16,083",
+    "Population":"32,328,196",
     "Continent":"Asia"
   },
   "Maldives":{
-    "#":"97",
-    "Total Cases":"1,513",
-    "New Cases":0,
+    "#":"95",
+    "Total Cases":"1,591",
+    "New Cases":"+78",
     "Total Deaths":"5",
     "New Deaths":0,
     "Total Recovered":"197",
-    "Active Cases":"1,311",
+    "Active Cases":"1,389",
     "Serious\/Critical":"9",
-    "Tot Cases\/ 1M pop":"2,804",
+    "Tot Cases\/ 1M pop":"2,948",
     "Deaths\/ 1M pop":"9",
     "Total Tests":"11,775",
-    "Tests\/  1M pop ":"21,821",
-    "Population":"539,625",
+    "Tests\/  1M pop ":"21,820",
+    "Population":"539,651",
     "Continent":"Asia"
   },
   "Mali":{
-    "#":"103",
+    "#":"104",
     "Total Cases":"1,226",
     "New Cases":"+32",
     "Total Deaths":"73",
@@ -1979,44 +1979,44 @@
     "Tot Cases\/ 1M pop":"61",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"3,483",
-    "Tests\/  1M pop ":"173",
-    "Population":"20,190,889",
+    "Tests\/  1M pop ":"172",
+    "Population":"20,192,489",
     "Continent":"Africa"
   },
   "Malta":{
     "#":"130",
     "Total Cases":"616",
     "New Cases":0,
-    "Total Deaths":"8",
-    "New Deaths":"+1",
+    "Total Deaths":"9",
+    "New Deaths":"+2",
     "Total Recovered":"514",
-    "Active Cases":"94",
+    "Active Cases":"93",
     "Serious\/Critical":"1",
     "Tot Cases\/ 1M pop":"1,395",
-    "Deaths\/ 1M pop":"18",
+    "Deaths\/ 1M pop":"20",
     "Total Tests":"66,664",
-    "Tests\/  1M pop ":"151,015",
-    "Population":"441,439",
+    "Tests\/  1M pop ":"151,014",
+    "Population":"441,442",
     "Continent":"Europe"
   },
   "Martinique":{
     "#":"156",
-    "Total Cases":"197",
-    "New Cases":0,
+    "Total Cases":"200",
+    "New Cases":"+3",
     "Total Deaths":"14",
     "New Deaths":0,
-    "Total Recovered":"91",
-    "Active Cases":"92",
+    "Total Recovered":"98",
+    "Active Cases":"88",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"525",
+    "Tot Cases\/ 1M pop":"533",
     "Deaths\/ 1M pop":"37",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"375,290",
+    "Population":"375,289",
     "Continent":"North America"
   },
   "Mauritania":{
-    "#":"140",
+    "#":"141",
     "Total Cases":"423",
     "New Cases":"+77",
     "Total Deaths":"20",
@@ -2028,7 +2028,7 @@
     "Deaths\/ 1M pop":"4",
     "Total Tests":"2,583",
     "Tests\/  1M pop ":"557",
-    "Population":"4,637,273",
+    "Population":"4,637,608",
     "Continent":"Africa"
   },
   "Mauritius":{
@@ -2043,8 +2043,8 @@
     "Tot Cases\/ 1M pop":"263",
     "Deaths\/ 1M pop":"8",
     "Total Tests":"114,236",
-    "Tests\/  1M pop ":"89,838",
-    "Population":"1,271,582",
+    "Tests\/  1M pop ":"89,837",
+    "Population":"1,271,588",
     "Continent":"Africa"
   },
   "Mayotte":{
@@ -2056,11 +2056,11 @@
     "Total Recovered":"1,385",
     "Active Cases":"293",
     "Serious\/Critical":"9",
-    "Tot Cases\/ 1M pop":"6,243",
+    "Tot Cases\/ 1M pop":"6,242",
     "Deaths\/ 1M pop":"77",
     "Total Tests":"5,200",
-    "Tests\/  1M pop ":"19,107",
-    "Population":"272,156",
+    "Tests\/  1M pop ":"19,105",
+    "Population":"272,174",
     "Continent":"Africa"
   },
   "Mexico":{
@@ -2076,7 +2076,7 @@
     "Deaths\/ 1M pop":"70",
     "Total Tests":"244,858",
     "Tests\/  1M pop ":"1,901",
-    "Population":"128,807,241",
+    "Population":"128,810,940",
     "Continent":"North America"
   },
   "Moldova":{
@@ -2092,7 +2092,7 @@
     "Deaths\/ 1M pop":"71",
     "Total Tests":"40,565",
     "Tests\/  1M pop ":"10,054",
-    "Population":"4,034,769",
+    "Population":"4,034,743",
     "Continent":"Europe"
   },
   "Monaco":{
@@ -2124,11 +2124,11 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"13,594",
     "Tests\/  1M pop ":"4,153",
-    "Population":"3,273,239",
+    "Population":"3,273,383",
     "Continent":"Asia"
   },
   "Montenegro":{
-    "#":"147",
+    "#":"148",
     "Total Cases":"324",
     "New Cases":0,
     "Total Deaths":"9",
@@ -2172,11 +2172,11 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":"190,061",
     "Tests\/  1M pop ":"5,155",
-    "Population":"36,869,708",
+    "Population":"36,870,903",
     "Continent":"Africa"
   },
   "Mozambique":{
-    "#":"152",
+    "#":"153",
     "Total Cases":"234",
     "New Cases":"+1",
     "Total Deaths":"2",
@@ -2188,11 +2188,11 @@
     "Deaths\/ 1M pop":"0.06",
     "Total Tests":"10,001",
     "Tests\/  1M pop ":"321",
-    "Population":"31,165,836",
+    "Population":"31,168,238",
     "Continent":"Africa"
   },
   "Myanmar":{
-    "#":"154",
+    "#":"155",
     "Total Cases":"207",
     "New Cases":"+1",
     "Total Deaths":"6",
@@ -2204,7 +2204,7 @@
     "Deaths\/ 1M pop":"0.1",
     "Total Tests":"23,951",
     "Tests\/  1M pop ":"440",
-    "Population":"54,376,742",
+    "Population":"54,377,737",
     "Continent":"Asia"
   },
   "Namibia":{
@@ -2220,11 +2220,11 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"3,412",
     "Tests\/  1M pop ":"1,345",
-    "Population":"2,536,452",
+    "Population":"2,536,578",
     "Continent":"Africa"
   },
   "Nepal":{
-    "#":"104",
+    "#":"105",
     "Total Cases":"1,212",
     "New Cases":"+170",
     "Total Deaths":"6",
@@ -2236,7 +2236,7 @@
     "Deaths\/ 1M pop":"0.2",
     "Total Tests":"169,632",
     "Tests\/  1M pop ":"5,832",
-    "Population":"29,086,128",
+    "Population":"29,087,562",
     "Continent":"Asia"
   },
   "Netherlands":{
@@ -2252,7 +2252,7 @@
     "Deaths\/ 1M pop":"346",
     "Total Tests":"348,256",
     "Tests\/  1M pop ":"20,328",
-    "Population":"17,131,525",
+    "Population":"17,131,629",
     "Continent":"Europe"
   },
   "New Caledonia":{
@@ -2267,8 +2267,8 @@
     "Tot Cases\/ 1M pop":"67",
     "Deaths\/ 1M pop":0,
     "Total Tests":"6,416",
-    "Tests\/  1M pop ":"22,493",
-    "Population":"285,245",
+    "Tests\/  1M pop ":"22,492",
+    "Population":"285,253",
     "Continent":"Australia\/Oceania"
   },
   "New Zealand":{
@@ -2288,7 +2288,7 @@
     "Continent":"Australia\/Oceania"
   },
   "Nicaragua":{
-    "#":"123",
+    "#":"124",
     "Total Cases":"759",
     "New Cases":0,
     "Total Deaths":"35",
@@ -2300,7 +2300,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"6,617,193",
+    "Population":"6,617,408",
     "Continent":"North America"
   },
   "Niger":{
@@ -2309,30 +2309,30 @@
     "New Cases":0,
     "Total Deaths":"64",
     "New Deaths":0,
-    "Total Recovered":"803",
-    "Active Cases":"88",
+    "Total Recovered":"813",
+    "Active Cases":"78",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"40",
     "Deaths\/ 1M pop":"3",
     "Total Tests":"6,020",
     "Tests\/  1M pop ":"250",
-    "Population":"24,112,822",
+    "Population":"24,115,230",
     "Continent":"Africa"
   },
   "Nigeria":{
-    "#":"54",
-    "Total Cases":"8,915",
-    "New Cases":0,
-    "Total Deaths":"259",
-    "New Deaths":0,
-    "Total Recovered":"2,592",
-    "Active Cases":"6,064",
+    "#":"52",
+    "Total Cases":"9,302",
+    "New Cases":"+387",
+    "Total Deaths":"261",
+    "New Deaths":"+2",
+    "Total Recovered":"2,697",
+    "Active Cases":"6,344",
     "Serious\/Critical":"7",
-    "Tot Cases\/ 1M pop":"43",
+    "Tot Cases\/ 1M pop":"45",
     "Deaths\/ 1M pop":"1",
     "Total Tests":"58,726",
     "Tests\/  1M pop ":"286",
-    "Population":"205,626,178",
+    "Population":"205,640,180",
     "Continent":"Africa"
   },
   "North Macedonia":{
@@ -2363,8 +2363,8 @@
     "Tot Cases\/ 1M pop":"1,555",
     "Deaths\/ 1M pop":"44",
     "Total Tests":"245,352",
-    "Tests\/  1M pop ":"45,290",
-    "Population":"5,417,374",
+    "Tests\/  1M pop ":"45,289",
+    "Population":"5,417,490",
     "Continent":"Europe"
   },
   "Oman":{
@@ -2379,8 +2379,8 @@
     "Tot Cases\/ 1M pop":"1,928",
     "Deaths\/ 1M pop":"8",
     "Total Tests":"72,000",
-    "Tests\/  1M pop ":"14,136",
-    "Population":"5,093,528",
+    "Tests\/  1M pop ":"14,135",
+    "Population":"5,093,884",
     "Continent":"Asia"
   },
   "Pakistan":{
@@ -2396,11 +2396,11 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":"520,017",
     "Tests\/  1M pop ":"2,359",
-    "Population":"220,474,171",
+    "Population":"220,485,909",
     "Continent":"Asia"
   },
   "Palestine":{
-    "#":"137",
+    "#":"138",
     "Total Cases":"446",
     "New Cases":0,
     "Total Deaths":"3",
@@ -2412,23 +2412,23 @@
     "Deaths\/ 1M pop":"0.6",
     "Total Tests":"44,876",
     "Tests\/  1M pop ":"8,817",
-    "Population":"5,089,600",
+    "Population":"5,089,925",
     "Continent":"Asia"
   },
   "Panama":{
     "#":"45",
-    "Total Cases":"12,131",
-    "New Cases":0,
-    "Total Deaths":"320",
-    "New Deaths":0,
-    "Total Recovered":"7,379",
-    "Active Cases":"4,432",
-    "Serious\/Critical":"72",
-    "Tot Cases\/ 1M pop":"2,816",
-    "Deaths\/ 1M pop":"74",
+    "Total Cases":"12,531",
+    "New Cases":"+400",
+    "Total Deaths":"326",
+    "New Deaths":"+6",
+    "Total Recovered":"7,540",
+    "Active Cases":"4,665",
+    "Serious\/Critical":"79",
+    "Tot Cases\/ 1M pop":"2,908",
+    "Deaths\/ 1M pop":"76",
     "Total Tests":"63,202",
-    "Tests\/  1M pop ":"14,670",
-    "Population":"4,308,282",
+    "Tests\/  1M pop ":"14,669",
+    "Population":"4,308,467",
     "Continent":"North America"
   },
   "Papua New Guinea":{
@@ -2444,7 +2444,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"2,402",
     "Tests\/  1M pop ":"269",
-    "Population":"8,930,545",
+    "Population":"8,931,009",
     "Continent":"Australia\/Oceania"
   },
   "Paraguay":{
@@ -2460,23 +2460,23 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"28,337",
     "Tests\/  1M pop ":"3,977",
-    "Population":"7,124,337",
+    "Population":"7,124,576",
     "Continent":"South America"
   },
   "Peru":{
-    "#":"12",
-    "Total Cases":"141,779",
-    "New Cases":0,
-    "Total Deaths":"4,099",
-    "New Deaths":0,
-    "Total Recovered":"59,442",
-    "Active Cases":"78,238",
+    "#":"11",
+    "Total Cases":"148,285",
+    "New Cases":"+6,506",
+    "Total Deaths":"4,230",
+    "New Deaths":"+131",
+    "Total Recovered":"62,791",
+    "Active Cases":"81,264",
     "Serious\/Critical":"926",
-    "Tot Cases\/ 1M pop":"4,306",
-    "Deaths\/ 1M pop":"124",
-    "Total Tests":"928,797",
-    "Tests\/  1M pop ":"28,207",
-    "Population":"32,928,451",
+    "Tot Cases\/ 1M pop":"4,503",
+    "Deaths\/ 1M pop":"128",
+    "Total Tests":"963,617",
+    "Tests\/  1M pop ":"29,263",
+    "Population":"32,929,707",
     "Continent":"South America"
   },
   "Philippines":{
@@ -2492,7 +2492,7 @@
     "Deaths\/ 1M pop":"9",
     "Total Tests":"332,689",
     "Tests\/  1M pop ":"3,040",
-    "Population":"109,443,743",
+    "Population":"109,447,729",
     "Continent":"Asia"
   },
   "Poland":{
@@ -2508,7 +2508,7 @@
     "Deaths\/ 1M pop":"28",
     "Total Tests":"873,456",
     "Tests\/  1M pop ":"23,077",
-    "Population":"37,850,199",
+    "Population":"37,850,086",
     "Continent":"Europe"
   },
   "Portugal":{
@@ -2523,8 +2523,8 @@
     "Tot Cases\/ 1M pop":"3,132",
     "Deaths\/ 1M pop":"136",
     "Total Tests":"795,838",
-    "Tests\/  1M pop ":"78,029",
-    "Population":"10,199,255",
+    "Tests\/  1M pop ":"78,030",
+    "Population":"10,199,174",
     "Continent":"Europe"
   },
   "Qatar":{
@@ -2536,11 +2536,11 @@
     "Total Recovered":"20,604",
     "Active Cases":"32,267",
     "Serious\/Critical":"216",
-    "Tot Cases\/ 1M pop":"18,394",
+    "Tot Cases\/ 1M pop":"18,393",
     "Deaths\/ 1M pop":"13",
     "Total Tests":"212,897",
-    "Tests\/  1M pop ":"74,016",
-    "Population":"2,876,377",
+    "Tests\/  1M pop ":"74,012",
+    "Population":"2,876,510",
     "Continent":"Asia"
   },
   "Romania":{
@@ -2555,8 +2555,8 @@
     "Tot Cases\/ 1M pop":"986",
     "Deaths\/ 1M pop":"65",
     "Total Tests":"421,451",
-    "Tests\/  1M pop ":"21,895",
-    "Population":"19,248,434",
+    "Tests\/  1M pop ":"21,896",
+    "Population":"19,248,085",
     "Continent":"Europe"
   },
   "Russia":{
@@ -2572,23 +2572,23 @@
     "Deaths\/ 1M pop":"30",
     "Total Tests":"10,000,061",
     "Tests\/  1M pop ":"68,527",
-    "Population":"145,928,996",
+    "Population":"145,929,167",
     "Continent":"Europe"
   },
   "Rwanda":{
     "#":"143",
-    "Total Cases":"349",
-    "New Cases":0,
+    "Total Cases":"355",
+    "New Cases":"+6",
     "Total Deaths":0,
     "New Deaths":0,
-    "Total Recovered":"245",
-    "Active Cases":"104",
+    "Total Recovered":"247",
+    "Active Cases":"108",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"27",
     "Deaths\/ 1M pop":0,
-    "Total Tests":"64,268",
-    "Tests\/  1M pop ":"4,974",
-    "Population":"12,919,954",
+    "Total Tests":"65,608",
+    "Tests\/  1M pop ":"5,078",
+    "Population":"12,920,834",
     "Continent":"Africa"
   },
   "R\u00e9union":{
@@ -2603,8 +2603,8 @@
     "Tot Cases\/ 1M pop":"525",
     "Deaths\/ 1M pop":"1",
     "Total Tests":"17,200",
-    "Tests\/  1M pop ":"19,224",
-    "Population":"894,731",
+    "Tests\/  1M pop ":"19,223",
+    "Population":"894,749",
     "Continent":"Africa"
   },
   "S. Korea":{
@@ -2620,7 +2620,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":"885,120",
     "Tests\/  1M pop ":"17,265",
-    "Population":"51,265,321",
+    "Population":"51,265,441",
     "Continent":"Asia"
   },
   "Saint Kitts and Nevis":{
@@ -2636,7 +2636,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"394",
     "Tests\/  1M pop ":"7,411",
-    "Population":"53,165",
+    "Population":"53,166",
     "Continent":"North America"
   },
   "Saint Lucia":{
@@ -2652,7 +2652,7 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"1,012",
     "Tests\/  1M pop ":"5,513",
-    "Population":"183,552",
+    "Population":"183,554",
     "Continent":"North America"
   },
   "Saint Martin":{
@@ -2668,7 +2668,7 @@
     "Deaths\/ 1M pop":"78",
     "Total Tests":"553",
     "Tests\/  1M pop ":"14,325",
-    "Population":"38,603",
+    "Population":"38,604",
     "Continent":"North America"
   },
   "Saint Pierre Miquelon":{
@@ -2705,18 +2705,18 @@
   },
   "Sao Tome and Principe":{
     "#":"136",
-    "Total Cases":"458",
-    "New Cases":0,
+    "Total Cases":"463",
+    "New Cases":"+5",
     "Total Deaths":"12",
     "New Deaths":0,
     "Total Recovered":"68",
-    "Active Cases":"378",
+    "Active Cases":"383",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"2,094",
+    "Tot Cases\/ 1M pop":"2,116",
     "Deaths\/ 1M pop":"55",
     "Total Tests":"175",
     "Tests\/  1M pop ":"800",
-    "Population":"218,764",
+    "Population":"218,775",
     "Continent":"Africa"
   },
   "Saudi Arabia":{
@@ -2731,8 +2731,8 @@
     "Tot Cases\/ 1M pop":"2,352",
     "Deaths\/ 1M pop":"13",
     "Total Tests":"787,465",
-    "Tests\/  1M pop ":"22,653",
-    "Population":"34,762,153",
+    "Tests\/  1M pop ":"22,652",
+    "Population":"34,763,636",
     "Continent":"Asia"
   },
   "Senegal":{
@@ -2748,7 +2748,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"39,499",
     "Tests\/  1M pop ":"2,365",
-    "Population":"16,699,197",
+    "Population":"16,700,407",
     "Continent":"Africa"
   },
   "Serbia":{
@@ -2764,7 +2764,7 @@
     "Deaths\/ 1M pop":"28",
     "Total Tests":"239,234",
     "Tests\/  1M pop ":"27,371",
-    "Population":"8,740,364",
+    "Population":"8,740,269",
     "Continent":"Europe"
   },
   "Seychelles":{
@@ -2780,11 +2780,11 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"98,292",
+    "Population":"98,294",
     "Continent":"Africa"
   },
   "Sierra Leone":{
-    "#":"119",
+    "#":"120",
     "Total Cases":"829",
     "New Cases":"+17",
     "Total Deaths":"45",
@@ -2796,7 +2796,7 @@
     "Deaths\/ 1M pop":"6",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"7,961,085",
+    "Population":"7,961,529",
     "Continent":"Africa"
   },
   "Singapore":{
@@ -2811,12 +2811,12 @@
     "Tot Cases\/ 1M pop":"5,792",
     "Deaths\/ 1M pop":"4",
     "Total Tests":"334,691",
-    "Tests\/  1M pop ":"57,250",
-    "Population":"5,846,144",
+    "Tests\/  1M pop ":"57,249",
+    "Population":"5,846,269",
     "Continent":"Asia"
   },
   "Sint Maarten":{
-    "#":"176",
+    "#":"177",
     "Total Cases":"77",
     "New Cases":0,
     "Total Deaths":"15",
@@ -2826,13 +2826,13 @@
     "Serious\/Critical":"1",
     "Tot Cases\/ 1M pop":"1,798",
     "Deaths\/ 1M pop":"350",
-    "Total Tests":"438",
-    "Tests\/  1M pop ":"10,226",
-    "Population":"42,831",
+    "Total Tests":"450",
+    "Tests\/  1M pop ":"10,506",
+    "Population":"42,832",
     "Continent":"North America"
   },
   "Slovakia":{
-    "#":"96",
+    "#":"97",
     "Total Cases":"1,520",
     "New Cases":0,
     "Total Deaths":"28",
@@ -2844,7 +2844,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":"167,562",
     "Tests\/  1M pop ":"30,692",
-    "Population":"5,459,411",
+    "Population":"5,459,418",
     "Continent":"Europe"
   },
   "Slovenia":{
@@ -2860,7 +2860,7 @@
     "Deaths\/ 1M pop":"52",
     "Total Tests":"79,284",
     "Tests\/  1M pop ":"38,137",
-    "Population":"2,078,913",
+    "Population":"2,078,914",
     "Continent":"Europe"
   },
   "Somalia":{
@@ -2876,7 +2876,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"15,847,882",
+    "Population":"15,849,098",
     "Continent":"Africa"
   },
   "South Africa":{
@@ -2892,7 +2892,7 @@
     "Deaths\/ 1M pop":"10",
     "Total Tests":"680,175",
     "Tests\/  1M pop ":"11,482",
-    "Population":"59,238,562",
+    "Population":"59,240,605",
     "Continent":"Africa"
   },
   "South Sudan":{
@@ -2908,7 +2908,7 @@
     "Deaths\/ 1M pop":"0.9",
     "Total Tests":"3,356",
     "Tests\/  1M pop ":"300",
-    "Population":"11,181,480",
+    "Population":"11,181,838",
     "Continent":"Africa"
   },
   "Spain":{
@@ -2924,11 +2924,11 @@
     "Deaths\/ 1M pop":"580",
     "Total Tests":"3,556,567",
     "Tests\/  1M pop ":"76,071",
-    "Population":"46,753,197",
+    "Population":"46,753,246",
     "Continent":"Europe"
   },
   "Sri Lanka":{
-    "#":"95",
+    "#":"96",
     "Total Cases":"1,558",
     "New Cases":"+28",
     "Total Deaths":"10",
@@ -2940,7 +2940,7 @@
     "Deaths\/ 1M pop":"0.5",
     "Total Tests":"60,878",
     "Tests\/  1M pop ":"2,844",
-    "Population":"21,405,231",
+    "Population":"21,405,475",
     "Continent":"Asia"
   },
   "St. Barth":{
@@ -2960,19 +2960,19 @@
     "Continent":"North America"
   },
   "St. Vincent Grenadines":{
-    "#":"187",
-    "Total Cases":"25",
-    "New Cases":0,
+    "#":"185",
+    "Total Cases":"26",
+    "New Cases":"+1",
     "Total Deaths":0,
     "New Deaths":0,
     "Total Recovered":"14",
-    "Active Cases":"11",
+    "Active Cases":"12",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"225",
+    "Tot Cases\/ 1M pop":"234",
     "Deaths\/ 1M pop":0,
     "Total Tests":"472",
     "Tests\/  1M pop ":"4,256",
-    "Population":"110,909",
+    "Population":"110,910",
     "Continent":"North America"
   },
   "Sudan":{
@@ -2988,7 +2988,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":"401",
     "Tests\/  1M pop ":"9",
-    "Population":"43,747,206",
+    "Population":"43,750,011",
     "Continent":"Africa"
   },
   "Suriname":{
@@ -3004,7 +3004,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"782",
     "Tests\/  1M pop ":"1,334",
-    "Population":"586,149",
+    "Population":"586,164",
     "Continent":"South America"
   },
   "Sweden":{
@@ -3019,8 +3019,8 @@
     "Tot Cases\/ 1M pop":"3,614",
     "Deaths\/ 1M pop":"431",
     "Total Tests":"238,800",
-    "Tests\/  1M pop ":"23,659",
-    "Population":"10,093,573",
+    "Tests\/  1M pop ":"23,658",
+    "Population":"10,093,745",
     "Continent":"Europe"
   },
   "Switzerland":{
@@ -3035,8 +3035,8 @@
     "Tot Cases\/ 1M pop":"3,564",
     "Deaths\/ 1M pop":"222",
     "Total Tests":"390,697",
-    "Tests\/  1M pop ":"45,173",
-    "Population":"8,648,865",
+    "Tests\/  1M pop ":"45,172",
+    "Population":"8,649,038",
     "Continent":"Europe"
   },
   "Syria":{
@@ -3052,11 +3052,11 @@
     "Deaths\/ 1M pop":"0.2",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"17,458,055",
+    "Population":"17,459,220",
     "Continent":"Asia"
   },
   "Taiwan":{
-    "#":"138",
+    "#":"139",
     "Total Cases":"442",
     "New Cases":"+1",
     "Total Deaths":"7",
@@ -3068,7 +3068,7 @@
     "Deaths\/ 1M pop":"0.3",
     "Total Tests":"71,750",
     "Tests\/  1M pop ":"3,013",
-    "Population":"23,812,979",
+    "Population":"23,813,096",
     "Continent":"Asia"
   },
   "Tajikistan":{
@@ -3084,7 +3084,7 @@
     "Deaths\/ 1M pop":"5",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"9,516,398",
+    "Population":"9,516,984",
     "Continent":"Asia"
   },
   "Tanzania":{
@@ -3100,7 +3100,7 @@
     "Deaths\/ 1M pop":"0.4",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"59,559,672",
+    "Population":"59,564,340",
     "Continent":"Africa"
   },
   "Thailand":{
@@ -3116,7 +3116,7 @@
     "Deaths\/ 1M pop":"0.8",
     "Total Tests":"375,453",
     "Tests\/  1M pop ":"5,380",
-    "Population":"69,784,490",
+    "Population":"69,784,967",
     "Continent":"Asia"
   },
   "Timor-Leste":{
@@ -3132,27 +3132,27 @@
     "Deaths\/ 1M pop":0,
     "Total Tests":"1,290",
     "Tests\/  1M pop ":"980",
-    "Population":"1,316,002",
+    "Population":"1,316,071",
     "Continent":"Asia"
   },
   "Togo":{
-    "#":"141",
-    "Total Cases":"422",
-    "New Cases":0,
+    "#":"140",
+    "Total Cases":"428",
+    "New Cases":"+6",
     "Total Deaths":"13",
     "New Deaths":0,
-    "Total Recovered":"197",
-    "Active Cases":"212",
+    "Total Recovered":"202",
+    "Active Cases":"213",
     "Serious\/Critical":0,
-    "Tot Cases\/ 1M pop":"51",
+    "Tot Cases\/ 1M pop":"52",
     "Deaths\/ 1M pop":"2",
-    "Total Tests":"18,696",
-    "Tests\/  1M pop ":"2,264",
-    "Population":"8,259,373",
+    "Total Tests":"19,162",
+    "Tests\/  1M pop ":"2,320",
+    "Population":"8,259,905",
     "Continent":"Africa"
   },
   "Trinidad and Tobago":{
-    "#":"168",
+    "#":"169",
     "Total Cases":"116",
     "New Cases":0,
     "Total Deaths":"8",
@@ -3162,9 +3162,9 @@
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"83",
     "Deaths\/ 1M pop":"6",
-    "Total Tests":"3,115",
-    "Tests\/  1M pop ":"2,226",
-    "Population":"1,399,086",
+    "Total Tests":"3,122",
+    "Tests\/  1M pop ":"2,231",
+    "Population":"1,399,098",
     "Continent":"North America"
   },
   "Tunisia":{
@@ -3180,7 +3180,7 @@
     "Deaths\/ 1M pop":"4",
     "Total Tests":"50,380",
     "Tests\/  1M pop ":"4,267",
-    "Population":"11,807,164",
+    "Population":"11,807,501",
     "Continent":"Africa"
   },
   "Turkey":{
@@ -3195,8 +3195,8 @@
     "Tot Cases\/ 1M pop":"1,924",
     "Deaths\/ 1M pop":"53",
     "Total Tests":"1,964,364",
-    "Tests\/  1M pop ":"23,315",
-    "Population":"84,254,857",
+    "Tests\/  1M pop ":"23,314",
+    "Population":"84,257,335",
     "Continent":"Asia"
   },
   "Turks and Caicos":{
@@ -3212,7 +3212,7 @@
     "Deaths\/ 1M pop":"26",
     "Total Tests":"129",
     "Tests\/  1M pop ":"3,336",
-    "Population":"38,668",
+    "Population":"38,669",
     "Continent":"North America"
   },
   "UAE":{
@@ -3224,11 +3224,11 @@
     "Total Recovered":"17,097",
     "Active Cases":"15,813",
     "Serious\/Critical":"1",
-    "Tot Cases\/ 1M pop":"3,358",
+    "Tot Cases\/ 1M pop":"3,357",
     "Deaths\/ 1M pop":"26",
     "Total Tests":"2,110,493",
-    "Tests\/  1M pop ":"213,629",
-    "Population":"9,879,229",
+    "Tests\/  1M pop ":"213,622",
+    "Population":"9,879,555",
     "Continent":"Asia"
   },
   "UK":{
@@ -3243,40 +3243,40 @@
     "Tot Cases\/ 1M pop":"3,997",
     "Deaths\/ 1M pop":"562",
     "Total Tests":"4,043,686",
-    "Tests\/  1M pop ":"59,594",
-    "Population":"67,853,964",
+    "Tests\/  1M pop ":"59,593",
+    "Population":"67,854,937",
     "Continent":"Europe"
   },
   "USA":{
     "#":"1",
-    "Total Cases":"1,786,116",
-    "New Cases":"+17,655",
-    "Total Deaths":"104,135",
-    "New Deaths":"+805",
-    "Total Recovered":"502,305",
-    "Active Cases":"1,179,676",
-    "Serious\/Critical":"17,161",
-    "Tot Cases\/ 1M pop":"5,399",
-    "Deaths\/ 1M pop":"315",
-    "Total Tests":"16,672,107",
-    "Tests\/  1M pop ":"50,395",
-    "Population":"330,827,597",
+    "Total Cases":"1,793,263",
+    "New Cases":"+24,802",
+    "Total Deaths":"104,539",
+    "New Deaths":"+1,209",
+    "Total Recovered":"519,381",
+    "Active Cases":"1,169,343",
+    "Serious\/Critical":"17,203",
+    "Tot Cases\/ 1M pop":"5,420",
+    "Deaths\/ 1M pop":"316",
+    "Total Tests":"16,790,070",
+    "Tests\/  1M pop ":"50,751",
+    "Population":"330,832,890",
     "Continent":"North America"
   },
   "Uganda":{
-    "#":"148",
-    "Total Cases":"317",
-    "New Cases":0,
+    "#":"146",
+    "Total Cases":"329",
+    "New Cases":"+12",
     "Total Deaths":0,
     "New Deaths":0,
-    "Total Recovered":"69",
-    "Active Cases":"248",
+    "Total Recovered":"72",
+    "Active Cases":"257",
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"7",
     "Deaths\/ 1M pop":0,
     "Total Tests":"93,062",
     "Tests\/  1M pop ":"2,041",
-    "Population":"45,590,239",
+    "Population":"45,594,205",
     "Continent":"Africa"
   },
   "Ukraine":{
@@ -3292,23 +3292,23 @@
     "Deaths\/ 1M pop":"16",
     "Total Tests":"337,318",
     "Tests\/  1M pop ":"7,709",
-    "Population":"43,755,845",
+    "Population":"43,755,130",
     "Continent":"Europe"
   },
   "Uruguay":{
-    "#":"120",
-    "Total Cases":"811",
-    "New Cases":0,
+    "#":"121",
+    "Total Cases":"816",
+    "New Cases":"+5",
     "Total Deaths":"22",
     "New Deaths":0,
-    "Total Recovered":"654",
-    "Active Cases":"135",
-    "Serious\/Critical":"5",
-    "Tot Cases\/ 1M pop":"234",
+    "Total Recovered":"680",
+    "Active Cases":"114",
+    "Serious\/Critical":"6",
+    "Tot Cases\/ 1M pop":"235",
     "Deaths\/ 1M pop":"6",
-    "Total Tests":"41,469",
-    "Tests\/  1M pop ":"11,942",
-    "Population":"3,472,659",
+    "Total Tests":"42,624",
+    "Tests\/  1M pop ":"12,274",
+    "Population":"3,472,692",
     "Continent":"South America"
   },
   "Uzbekistan":{
@@ -3323,8 +3323,8 @@
     "Tot Cases\/ 1M pop":"104",
     "Deaths\/ 1M pop":"0.4",
     "Total Tests":"460,000",
-    "Tests\/  1M pop ":"13,763",
-    "Population":"33,423,219",
+    "Tests\/  1M pop ":"13,762",
+    "Population":"33,424,544",
     "Continent":"Asia"
   },
   "Vatican City":{
@@ -3355,12 +3355,12 @@
     "Tot Cases\/ 1M pop":"47",
     "Deaths\/ 1M pop":"0.4",
     "Total Tests":"897,695",
-    "Tests\/  1M pop ":"31,561",
-    "Population":"28,442,842",
+    "Tests\/  1M pop ":"31,562",
+    "Population":"28,442,623",
     "Continent":"South America"
   },
   "Vietnam":{
-    "#":"146",
+    "#":"147",
     "Total Cases":"327",
     "New Cases":0,
     "Total Deaths":0,
@@ -3371,8 +3371,8 @@
     "Tot Cases\/ 1M pop":"3",
     "Deaths\/ 1M pop":0,
     "Total Tests":"275,000",
-    "Tests\/  1M pop ":"2,828",
-    "Population":"97,258,136",
+    "Tests\/  1M pop ":"2,827",
+    "Population":"97,260,527",
     "Continent":"Asia"
   },
   "Western Sahara":{
@@ -3388,7 +3388,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":0,
     "Tests\/  1M pop ":0,
-    "Population":"595,865",
+    "Population":"595,905",
     "Continent":"Africa"
   },
   "Yemen":{
@@ -3404,7 +3404,7 @@
     "Deaths\/ 1M pop":"2",
     "Total Tests":"120",
     "Tests\/  1M pop ":"4",
-    "Population":"29,760,970",
+    "Population":"29,762,769",
     "Continent":"Asia"
   },
   "Zambia":{
@@ -3420,7 +3420,7 @@
     "Deaths\/ 1M pop":"0.4",
     "Total Tests":"24,275",
     "Tests\/  1M pop ":"1,324",
-    "Population":"18,331,278",
+    "Population":"18,332,690",
     "Continent":"Africa"
   },
   "Zimbabwe":{
@@ -3434,9 +3434,9 @@
     "Serious\/Critical":0,
     "Tot Cases\/ 1M pop":"10",
     "Deaths\/ 1M pop":"0.3",
-    "Total Tests":"37,039",
-    "Tests\/  1M pop ":"2,495",
-    "Population":"14,842,405",
+    "Total Tests":"40,847",
+    "Tests\/  1M pop ":"2,752",
+    "Population":"14,842,996",
     "Continent":"Africa"
   }
 }
