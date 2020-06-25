@@ -56,11 +56,10 @@ class ParserService:
         country_rows.sort(key=sort_alphabetically)
 
         for country_row in country_rows:
-            country_classname = re.sub(regx, "", country_row.findAll("td")[0].get_text())
+            country_classname = re.sub(regx, "", country_row.findAll("td")[1].get_text())
             #skip continents, we only need countries
-            if country_classname is '' or 0:
+            if country_classname is '' or 0 or not 'World':
                 continue
-
             parsed_data.append([data.get_text().strip() for data
                                 in country_row.findAll("td")])
             
