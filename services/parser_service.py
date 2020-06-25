@@ -57,7 +57,7 @@ class ParserService:
 
         for country_row in country_rows:
             country_classname = re.sub(regx, "", country_row.findAll("td")[1].get_text())
-            #skip continents, we only need countries
+            #skip continents, we only need countries and Total Data (World)
             if country_classname is '' or 0 or not 'World':
                 continue
             parsed_data.append([data.get_text().strip() for data
