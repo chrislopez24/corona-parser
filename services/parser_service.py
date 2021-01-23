@@ -58,15 +58,28 @@ class ParserService:
         for country_row in country_rows:
             country_classname = re.sub(regx, "", country_row.findAll("td")[1].get_text())
             #Filter unnecesary data, gather countries, continents and World results
-            if country_classname is '' or 0:
+            if country_classname == '' or 0:
                 continue
             parsed_data.append([data.get_text().strip() for data
                                 in country_row.findAll("td")])
-            
         
-        df = pd.DataFrame(parsed_data, columns=columns)
-        return df.replace(to_replace=[""], value=0)
-    
+        #Prepare the data to add new columns and manipulate data
+        df_parsed = pd.DataFrame(parsed_data, columns=columns).replace(to_replace=[""], value=0)
+        df = df_parsed.apply(lambda x: x.str.replace(',',''))
+
+        #Create new Percentage collumns using float values
+        df['Death Percentage'] = (
+           df['Total Deaths'].astype(float) / df['Total Cases'].astype(float) * 100
+        )
+        df['Population Test Percentage'] = (
+            df['Total Tests'].astype(float) / df['Population'].astype(float) * 100
+        )
+
+        #Round the big float number to 3 decimal digits and bring it back to String type
+        df['Death Percentage'] = df['Death Percentage'].round(3).fillna(0).astype(str)
+        df['Population Test Percentage'] = df['Population Test Percentage'].round(3).fillna(0).astype(str)
+
+        return df.replace(to_replace=[None], value=0)
 
     @staticmethod
     def parse_last_updated(raw_data):
